@@ -1,32 +1,331 @@
-.App {
-  text-align: center;
+html {
+  box-sizing: border-box
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+*, :before, :after {
+  box-sizing: inherit
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline
 }
 
-.App-link {
-  color: #61dafb;
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+body {
+  line-height: 1
 }
+
+ol, ul {
+  list-style: none
+}
+
+blockquote, q {
+  quotes: none
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+  content: '';
+  content: none
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0
+}
+
+body {
+  font: 11px Helvetica, Arial, sans-serif;
+  color: #343434;
+  -webkit-text-stroke: 1px transparent;
+  -moz-text-stroke: 1px transparent;
+  -o-text-stroke: 1px transparent;
+  word-wrap: break-word;
+}
+
+/* html * {
+    margin: 0;
+    padding: 0;
+}
+
+body, a, a:link, a:active, a:visited, p, div, img, a img, table, li {
+  cursor:url(http://static.tumblr.com/xjqjg7j/XJOlou09h/blackcursor.png),
+  url(http://static.tumblr.com/xjqjg7j/XJOlou09h/blackcursor.png), auto;
+}
+
+body {
+    background: #ffffff fixed center center;
+    font: 11px Helvetica, Arial, sane-serif;
+    color: #343434;
+    -webkit-text-stroke: 1px transparent;
+    -moz-text-stroke: 1px transparent;
+    -o-text-stroke: 1px transparent;
+    text-stroke: 1px transparent;
+    word-wrap: break-word;
+}
+
+a, a:link, a:active, a:visited {
+    color: #343434;
+}
+
+a:hover {
+    color: #343434;
+    background: #ffff00; 
+}
+
+img, a img {
+    border: 0;
+}
+
+img:hover, a:hover img {
+    background: none!important;
+}
+
+blockquote {
+    margin: 5px 0 0 11px;
+    padding-left: 10px;
+    border-left: 1px solid;
+}
+
+blockquote img, blockquote a img { max-width: 490px; }
+
+p { padding-top: 5px; }
+
+ol, ul { padding: 5px 0 0 25px; }
+ul { list-style-type: square; }
+ul ul, ul ol, ol ol, ol ul { padding-bottom: 5px; }
+
+blockquote p:first-child, blockquote ul:first-child, blockquote ol:first-child { padding-top: 0; }
+
+pre {
+    padding: 5px;
+    word-wrap: break-word;
+    background: #eeeeee url('http://assets.tumblr.com/images/x.gif?v=1');
+    max-height: 300px;
+    overflow: auto;
+}
+
+.clear { clear: both; }
+.right { float: right; }
+.left { float: left; }
+
+#container {
+  margin: auto;
+  padding: 0px;
+}
+
+#content {
+  margin: 0 auto 25px;
+  width: 675px;
+  height: 100%;
+  padding: 0; 
+}
+
+#spacer {
+  height: 50px;
+  width: 775px;
+}
+
+#posts {
+  float: left;
+  width: 500px;
+}
+
+h1, h2, h1 a, h2 a {
+  font-family: 'Droid Serif', serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+h1, h1 a {
+  font-size: 25px;
+  color: #343434!important;
+  letter-spacing: 2px;
+  display: none;
+}
+
+h2 {
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+h3 { font: italic  17px 'Droid Serif', serif; }
+
+#disqus_thread h3, #disqus_thread h3 {
+  font-family: 'Droid Serif', serif;
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+h4 {
+  font: 12px 'Droid Serif', serif;
+  padding: 5px;
+  background: #eeeeee url('http://assets.tumblr.com/images/x.gif?v=1');
+}
+
+h4 a { background: #eeeeee url('http://assets.tumblr.com/images/x.gif?v=1')!important; }
+h4 a:hover { background: #ffff00 url('http://assets.tumblr.com/images/x.gif?v=1')!important; }
+
+#sidebar {
+  position: fixed;
+  margin-left: 525px;
+  width: 150px;
+}
+
+#desc {
+  margin-top: 5px;
+}
+
+#twitter {
+  overflow: auto;
+  margin-top: 8px;
+}
+
+#birdy { margin-top: -6px; }
+
+#birdy a img {
+  background: none!important;
+  width: 28px;
+  margin-right: 5px;
+}
+
+#tweets { font: 14px 'Droid Serif', serif; }
+
+#flickr_badge_wrapper img {
+  float: left;
+  margin-left: 12px;
+}
+
+#flickr_badge_uber_wrapper { margin: 8px 0 10px -12px; }
+small.right { margin-top: 3px; }
+
+
+
+
+
+#pages {
+    margin-left: -2px;
+    padding: 0;
+    list-style-type: none;
+}
+
+#pages li {
+    float: left;
+    width: 150px;
+    margin-left: 2px;
+}
+
+#pages a {
+    display: block;
+    margin-top: 2px;
+    background: #eeeeee;
+    padding: 3px 6px;
+}
+
+#pages a:hover {
+    color: #ffffff;
+    background: #565656;
+}
+
+.page { font-weight: bold; }
+#pag { margin-top: 8px; text-align: center; }
+#pag a { color: #343434; }
+#pag a, #footer a, #pages a, .page { text-decoration: none; }
+#current, #pag a { padding: 0 2px; }
+
+#footer { text-align: center; margin-top: 8px; display:none; }
+#footer p { padding-top: 3px!important; }
+
+#footer, #footer a {
+    font: 9px 'Droid Serif', serif;
+    color: #909090;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+
+#following { margin-top: 8px; }
+#following img, #group img { margin: 1px 1px 0 0; }
+#group { margin-bottom: 5px; }
+
+.results {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.results h3, .results a { color: #909090; font-size: px!important; }
+
+.post { margin-bottom: 25px; }
+.post img { max-width: 500px; }
+
+
+.body p:first-child, .body ul:first-child, .body ol:first-child { padding-top: 0; }
+
+.tags { margin-top: 2px; }
+
+.tags a {
+    font-size: 10px;
+    color: #909090;
+    text-decoration: none;
+}
+
+.date { margin-top: 5px; }
+
+.date, .date a, #pag, #current, #pag .center a {
+    font: 10px 'Droid Serif', serif;
+    color: #343434;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+
+.date a:hover, #pag a:hover, #footer a:hover { color: #343434; }
+
+#notes { margin-top: 25px; }
+#notes ol { padding: 0; list-style-type: none; }
+#notes li { margin-bottom: 10px; }
+.avatar { display: none; }
+
+.zoom, .zoom:hover {
+    position: relative;
+    z-index: 1;
+    visibility: hidden;
+    padding: 2px 4px;
+    color: #fff!important;
+    text-decoration: none;
+    background: #000!important;
+    background: rgba(0, 0, 0, 0.5)!important;
+}
+
+.photo img {
+    position: relative;
+    margin-top: -15px;
+    z-index: 0;
+}
+
+.photo_container img { margin-top: 0!important; }
+.photo:hover .zoom { visibility: visible; }
+
+.chat { padding: 0; list-style-type: none; }
+.chat li { padding: 5px 10px; }
+.odd { background: #eeeeee url('http://assets.tumblr.com/images/x.gif?v=1'); }
+
+
+.info span { display: block; }
+
+#tumblr_controls {
+    position: fixed!important;
+    top: 0!important;
+    right: 0!important;
+} */
