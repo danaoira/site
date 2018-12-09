@@ -2,9 +2,7 @@ import React, { Component } from 'react'
 import styled from 'styled-components'
 import { links, theme } from './utils'
 
-const Wrapper = styled.div`
-  padding: 1em 4em;
-`
+const Wrapper = styled.div``
 
 const Title = styled.h1`
   color: ${theme.color.black};
