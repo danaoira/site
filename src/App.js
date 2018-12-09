@@ -24,16 +24,18 @@ const Subtitle = styled.h2`
   letter-spacing: 1px;
 `
 
-const Menu = styled.div`
-  line-height: 3em;
+const Menu = styled.ul`
+  line-height: 1.5em;
+  list-style: none;
+  list-style-position: outside;
+  padding: 0;
 `
 
 const Link = styled.a`
   color: ${theme.color.black};
-  font-family: ${theme.type.default.fontFamily};
+  font-family: ${theme.type.accent.fontFamily};
   font-size: 1em;
   text-decoration: none;
-  border-bottom: solid 1px ${theme.color.pink};
 
   :link {
     cursor: url(http://static.tumblr.com/xjqjg7j/XJOlou09h/blackcursor.png),
@@ -47,7 +49,7 @@ const Link = styled.a`
 `
 
 const ListItem = ({ text, url, last }) => (
-  <span><Link href={url}>{text}</Link> {!last && '.'} </span>
+  <li><Link href={url}>{text}</Link> {!last && ' '}&nbsp; </li>
 )
 
 class App extends Component {
@@ -59,9 +61,11 @@ class App extends Component {
             <Title>Dana Oira</Title>
             <Subtitle>Data Visualization<br />Software Engineer</Subtitle>
             <Menu>
-              <ListItem text={'Portfolio'} url={''} />
+              <ListItem text={'About'} />
+              <ListItem text={'Portfolio'} />
               <ListItem text={'LinkedIn'} url={links.linkedin} />
-              <ListItem text={'GitHub'} url={links.github} last />
+              <ListItem text={'GitHub'} url={links.github} />
+              <ListItem text={'Email'} url={'mailto:danaoira@live.com'} />
             </Menu>
           </Wrapper>
         </header>
