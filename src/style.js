@@ -3,6 +3,14 @@ import { theme } from './utils'
 
 const Wrapper = styled.div``
 
+const AppWrapper = styled.div`
+  min-height: 100vh;
+`
+
+const Menu = styled.div`
+  padding-left: 2em;
+`
+
 const Title = styled.h1`
   color: ${theme.color.black};
   font-family: ${theme.type.accent.fontFamily};
@@ -53,6 +61,8 @@ const Paragraph = styled.div`
 
 export {
   Wrapper,
+  AppWrapper,
+  Menu,
   Title,
   Subtitle,
   List,
