@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
-import { links, theme } from './utils'
+import { theme } from './utils'
 
 const Wrapper = styled.div``
 
@@ -8,47 +8,12 @@ const Title = styled.h1`
   color: ${theme.color.black};
   font-family: ${theme.type.accent.fontFamily};
   font-weight: ${theme.type.fontWeight.extraLight};
+  font-style: italic;x
   font-size: 3em;
   line-height: 1em;
+  margin-top: 1.3em;
   text-decoration: none;
 `
-
-const Subtitle = styled.h2`
-  font-family: ${theme.type.default.fontFamily};
-  font-weight: ${theme.type.fontWeight.extraLight};
-  font-size: 1.5em;
-  color: ${theme.color.black};
-  text-decoration: none;
-  letter-spacing: 1px;
-`
-
-const Menu = styled.ul`
-  line-height: 1.5em;
-  list-style: none;
-  list-style-position: outside;
-  padding: 0;
-`
-
-const Link = styled.a`
-  color: ${theme.color.black};
-  font-family: ${theme.type.accent.fontFamily};
-  font-size: 1em;
-  text-decoration: none;
-
-  :link {
-    cursor: url(http://static.tumblr.com/xjqjg7j/XJOlou09h/blackcursor.png),
-    url(http://static.tumblr.com/xjqjg7j/XJOlou09h/blackcursor.png), auto;
-  }
-
-  :hover {
-    color: ${theme.color.black};
-    background: ${theme.color.pink};
-  }
-`
-
-const ListItem = ({ text, url, last }) => (
-  <li><Link href={url}>{text}</Link> {!last && ' '}&nbsp; </li>
-)
 
 class App extends Component {
   render() {
@@ -56,15 +21,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <Wrapper>
-            <Title>Dana Oira</Title>
-            <Subtitle>Data Visualization<br />Software Engineer</Subtitle>
-            <Menu>
-              <ListItem text={'About'} />
-              <ListItem text={'Portfolio'} />
-              <ListItem text={'LinkedIn'} url={links.linkedin} />
-              <ListItem text={'GitHub'} url={links.github} />
-              <ListItem text={'Email'} url={'mailto:danaoira@live.com'} />
-            </Menu>
+            <Title>Hello world! Welcome to my little space on the internet.</Title>
           </Wrapper>
         </header>
       </div>
