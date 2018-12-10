@@ -1,14 +1,18 @@
 import React, { Component } from 'react'
 import { Brand } from './components/pages/Brand'
 import { Portfolio } from './components/pages/Portfolio'
+import { About } from './components/pages/About'
 
 class AppMain extends Component {
   render() {
-    const { page, handlePageSelect } = this.props
+    const { page } = this.props
 
     return (
-      (page === 'brand') && <Brand /> ||
-      (page === 'portfolio') && <Portfolio />
+      <div>
+        {(page === 'brand') && <Brand />}
+        {(page === 'portfolio') && <Portfolio />}
+        {(page === 'about') && <About />}
+      </div>
     )
   }
 }

@@ -15,9 +15,9 @@ class AppMenu extends Component {
         <Title>Dana Oira</Title>
         <Subtitle>Data Visualization<br />Software Engineer</Subtitle>
         <List>
+          <li><Link onClick={() => handlePageSelect('about') }>About</Link></li>
           <li><Link onClick={() => handlePageSelect('brand') }>Brand</Link></li>
           <li><Link onClick={() => handlePageSelect('portfolio') }>Portfolio</Link></li>
-          <ListItem text={'About'} />
           <ListItem text={'LinkedIn'} url={links.linkedin} />
           <ListItem text={'GitHub'} url={links.github} />
           <ListItem text={'Email'} url={'mailto:danaoira@live.com'} />
