@@ -8,16 +8,16 @@ const ListItem = ({ text, url, last }) => (
 
 class AppMenu extends Component {
   render() {
-    const { page, handlePageSelect } = this.props
+    const { handlePageSelect } = this.props
 
     return (
       <Menu>
         <Title>Dana Oira</Title>
         <Subtitle>Data Visualization<br />Software Engineer</Subtitle>
         <List>
-          <Link onClick={() => handlePageSelect('brand') }>Brand</Link>
+          <li><Link onClick={() => handlePageSelect('brand') }>Brand</Link></li>
+          <li><Link onClick={() => handlePageSelect('portfolio') }>Portfolio</Link></li>
           <ListItem text={'About'} />
-          <ListItem text={'Portfolio'} />
           <ListItem text={'LinkedIn'} url={links.linkedin} />
           <ListItem text={'GitHub'} url={links.github} />
           <ListItem text={'Email'} url={'mailto:danaoira@live.com'} />
