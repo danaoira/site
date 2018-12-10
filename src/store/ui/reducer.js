@@ -4,12 +4,15 @@ const initialState = {
   page: null
 }
 
-export default (state = initialState, action) => {
+export default (state = initialState, { type, payload = {} }) => {
   switch (type) {
     case UI_SELECT_PAGE:
       return {
         ...state,
-        page: action.payload
+        page: payload.page
       }
+
+    default:
+      return state
   }
 }

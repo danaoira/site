@@ -1,6 +1,6 @@
 import uiReducer from './ui/reducer'
 
-const combinedReducer = (state = { ui: null }, action) => {
+const combinedReducer = (state = {}, action) => {
   return {
     ui: uiReducer(state.ui, action)
   }
