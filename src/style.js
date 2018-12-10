@@ -7,9 +7,7 @@ const AppWrapper = styled.div`
   min-height: 100vh;
 `
 
-const Menu = styled.div`
-  padding-left: 2em;
-`
+const Menu = styled.div``
 
 const Title = styled.h1`
   color: ${theme.color.black};
@@ -21,10 +19,10 @@ const Title = styled.h1`
 `
 
 const Subtitle = styled.h2`
+  color: ${theme.color.black};
   font-family: ${theme.type.default.fontFamily};
   font-weight: ${theme.type.fontWeight.extraLight};
   font-size: 1.5em;
-  color: ${theme.color.black};
   text-decoration: none;
   letter-spacing: 1px;
 `
@@ -55,8 +53,9 @@ const Link = styled.a`
 
 const Paragraph = styled.div`
   color: ${theme.color.black};
-  font-family: ${theme.type.default.fontFamily};
+  font-family: ${theme.type.accent.fontFamily};
   font-weight: ${theme.type.fontWeight.extraLight};
+  margin-top: 1.6em;
 `
 
 export {
