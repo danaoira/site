@@ -11,7 +11,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -29,5 +29,5 @@
   "devDependencies": {
     "gh-pages": "^2.0.1"
   },
-  "homepage": "https://danaoira.github.io"
+  "homepage": "https://danaoira.github.io/"
 }
