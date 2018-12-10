@@ -13,6 +13,7 @@ class AppMenu extends Component {
         <Title>Dana Oira</Title>
         <Subtitle>Data Visualization<br />Software Engineer</Subtitle>
         <List>
+          <Link>Brand</Link>
           <ListItem text={'About'} />
           <ListItem text={'Portfolio'} />
           <ListItem text={'LinkedIn'} url={links.linkedin} />
