@@ -1,12 +1,6 @@
 import React, { Component } from 'react'
 import { links } from './utils'
-import { 
-  Menu,
-  Title,
-  Subtitle,
-  List,
-  Link
-} from './style'
+import { Menu, Title, Subtitle, List, Link } from './style'
 
 const ListItem = ({ text, url, last }) => (
   <li><Link href={url}>{text}</Link> {!last && ' '}&nbsp; </li>

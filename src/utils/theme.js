@@ -2,8 +2,7 @@ const theme = {}
 
 theme.color = {
   pink: '#EEDEDE',
-  lightgray: '#CCCBC9',
-  darkgray: '#343434',
+  gray: '#CCCBC9',
   black: '#343434',
   white: '#FFFFFF',
   yellow: '#FFFF00'
