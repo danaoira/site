@@ -1,8 +1,15 @@
-import { Component } from 'react'
+import React, { Component } from 'react'
+import { Brand } from './components/pages/Brand'
 
 class AppMain extends Component {
   render() {
-    return ''
+    const { page, handlePageSelect } = this.props
+
+    console.log(page)
+
+    return (
+      (page === 'brand') && <Brand />
+    )
   }
 }
 

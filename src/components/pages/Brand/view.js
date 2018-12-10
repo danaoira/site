@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
-import { theme } from './utils'
-import { Subtitle, Paragraph } from './style'
+import { theme } from '../../../utils'
+import { Subtitle, Paragraph } from '../../../style'
 
 const Grid2Col = styled.div`
   display: flex;
