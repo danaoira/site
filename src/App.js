@@ -7,8 +7,6 @@ import combinedEpics from './store/combinedEpics'
 import AppContainer from './containers/AppContainer'
 import AppMain from './AppMain'
 import AppMenu from './AppMenu'
-import { uiSelectPage } from './store/ui/actions'
-import { getSelectedPage } from './store/ui/selectors'
 
 const ConnectedAppMenu = AppContainer(AppMenu)
 const ConnectedAppMain = AppContainer(AppMain)
@@ -29,11 +27,11 @@ class App extends Component {
   }
 
   render() {
-    console.log(getSelectedPage(store))
     return (
       <Provider store={store}>
-        <ConnectedAppMenu />
+        <div></div>
         <ConnectedAppMain />
+        <ConnectedAppMenu />
       </Provider>
     )
   }

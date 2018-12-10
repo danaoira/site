@@ -7,7 +7,13 @@ const AppWrapper = styled.div`
   min-height: 100vh;
 `
 
-const Menu = styled.div``
+const Menu = styled.div`
+  position: fixed;
+  z-index: 100;
+  left: 3em;
+  background-color: #fff;
+  min-height: 100vh;
+`
 
 const Title = styled.h1`
   color: ${theme.color.black};
