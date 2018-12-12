@@ -65,16 +65,26 @@ const List = styled.ul`
 const Link = styled.a`
   color: ${theme.color.black};
   font-family: ${theme.type.accent.fontFamily};
-  font-size: 1em;
+  font-size: 0.8em;
   text-decoration: none;
-  border-bottom: solid 2px ${theme.color.white};
-  transition: border-bottom 1s ease-in-out;
+  border-bottom: solid 2px ${theme.color.pink};
+  transition: border-bottom 0.5s ease-in-out;
 
   :hover {
     color: ${theme.color.black};
-    border-bottom: solid 2px ${theme.color.pink};
+    border-bottom: solid 2px ${theme.color.white};
     cursor: pointer;
   }
+
+  @media (min-width: 800px) {
+    font-size: 1em;
+    border-bottom: solid 2px ${theme.color.white};
+
+    :hover {
+      border-bottom: solid 2px ${theme.color.pink};
+    }
+  }
+
 `
 
 const Paragraph = styled.div`

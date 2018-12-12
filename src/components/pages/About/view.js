@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import ReactDOM from 'react-dom'
 import styled from 'styled-components'
 import { theme, links } from '../../../utils'
 
@@ -7,6 +8,7 @@ const Grid2Col = styled.div`
   display: flex;
   flex-direction: column;
   min-height: 50vh;
+  padding: 1em;
 
   @media (min-width: 1024px) {
     display: grid;
@@ -52,7 +54,8 @@ const lists = {
     {
       link: links.noodle,
       role: 'UI Engineer',
-      org: 'Noodle.ai'
+      org: 'Noodle.ai',
+      desc: `(we're hiring!)`
     }
   ],
   former: [
@@ -80,15 +83,15 @@ const lists = {
   associations: [
     {
       link: links.acm,
-      org: 'Association for Computing Machinery (ACM)' 
+      org: 'Association for Computing Machinery' 
     },
     {
       link: links.wibd,
-      org: 'Women in Big Data (WiBD)'
+      org: 'Women in Big Data'
     },
     {
       link: links.sfcma,
-      org: 'San Francisco Civic Music Association (SFCMA)'
+      org: 'San Francisco Civic Music Association'
     }
   ]
 }
@@ -98,12 +101,18 @@ const Link = styled.a`
   //background: ${theme.color.pink};
   text-decoration: none;
   border-bottom: solid 2px ${theme.color.pink};
-  transition: border-bottom 1s ease-in-out;
+  transition: border-bottom 0.5s ease-in-out;
 
   :hover {
     background: ${theme.color.white};
     border-bottom: solid 2px ${theme.color.white};
   }
+`
+
+const SideNote = styled.span`
+  color: ${theme.color.black};
+  font-style: italic;
+  font-size: 0.8em;
 `
 
 const LinkSection = ({ data, title }) => {
@@ -114,7 +123,7 @@ const LinkSection = ({ data, title }) => {
         {data.map(d => {
           console.log(d)
           return (
-            <ListItem>{d.role ? `${d.role} at ` : null}<Link href={d.link}>{d.org}</Link></ListItem>
+            <ListItem>{d.role ? `${d.role} at ` : null}<Link href={d.link}>{d.org}</Link> {d.desc ? (<SideNote>~we're hiring!</SideNote>) : null}</ListItem>
           )
         })}
       </List>
@@ -123,6 +132,16 @@ const LinkSection = ({ data, title }) => {
 }
 
 class About extends Component {
+  componentDidMount() {
+    var elem = ReactDOM.findDOMNode(this)
+
+    elem.style.opacity = 0
+    window.requestAnimationFrame(function() {
+      elem.style.transition = "opacity 1200ms"
+      elem.style.opacity = 1
+    })
+  }
+
   render() {
     return (
       <Grid2Col>

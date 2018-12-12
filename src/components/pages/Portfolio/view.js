@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import ReactDOM from 'react-dom'
 import styled from 'styled-components'
 import { theme } from '../../../utils'
 
@@ -25,18 +26,18 @@ const Tile = styled.div`
   background: ${props => props.image ? `url(${require('../../../images/' + props.image)})` : null};
   height: 36vh;
   display: table;
-  text-decoration: none;
   width: 100%;
+  transition: background 0.9s ease-in-out;
 
   :hover {
     cursor: ${props => props.wip ? 'not-allowed' : 'pointer'};
+    background: ${theme.color.pink};
   }
 
   > div {
     display: table-cell;
     vertical-align: middle;
     text-align: center;
-    text-decoration: none;
   }
 
   > img {
@@ -60,7 +61,34 @@ const Subtitle = styled.div`
   display: block;
 `
 
+const Detail = styled.div`
+  width: 100%;
+  height: 100%;
+  background: ${theme.color.pink};
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+
+  :hover {
+    opacity: 1;
+    text-decoration: none;
+  }
+`
+
+const Link = styled.a`
+  text-decoration: none;
+`
+
 class About extends Component {
+  componentDidMount() {
+    var elem = ReactDOM.findDOMNode(this)
+
+    elem.style.opacity = 0
+    window.requestAnimationFrame(function() {
+      elem.style.transition = "opacity 1200ms"
+      elem.style.opacity = 1
+    })
+  }
+  
   render() {
     const { callback } = this.props
 
@@ -78,18 +106,33 @@ class About extends Component {
             <Subtitle>coming soon</Subtitle>
           </div>
         </Tile>
-        <Tile onClick={() => callback('brand')}>
+        {/* <Tile onClick={() => callback('brand')}>
           <Title>Brand</Title>
-        </Tile>
-        <a href={'http://bl.ocks.org/danaoira/6b271c84d8a22789b6145ff1e82d8eb4'}>
-          <Tile image={'exoplanets.png'} style={{ backgroundPosition: '30% 75%', backgroundSize: '200%' }} />
-        </a>
-        <a href={'https://bl.ocks.org/danaoira/7e2ffa935c8da4f97681f376f34ae5a5'}>
-          <Tile image={'nations.png'} style={{ backgroundPosition: '87% bottom', backgroundSize: 'cover' }} />
-        </a>
-        <a href={'http://github.com/danaoira/cgv'}>
-          <Tile image={'curriculum-graph-visualizer.png'} style={{ backgroundPosition: 'left bottom', backgroundSize: '200%' }} />
-        </a>
+        </Tile> */}
+        <Link href={'http://bl.ocks.org/danaoira/6b271c84d8a22789b6145ff1e82d8eb4'}>
+          <Tile image={'exoplanets.png'} style={{ backgroundPosition: '30% 75%', backgroundSize: '200%' }}>
+            <Detail>
+              <Title>Exoplanets</Title>
+              <Subtitle>D3.js</Subtitle>
+            </Detail>
+          </Tile>
+        </Link>
+        <Link href={'https://bl.ocks.org/danaoira/7e2ffa935c8da4f97681f376f34ae5a5'}>
+          <Tile image={'nations.png'} style={{ backgroundPosition: '87% bottom', backgroundSize: 'cover' }}>
+            <Detail>
+              <Title>Nations</Title>
+              <Subtitle>D3.js</Subtitle>
+            </Detail>
+          </Tile>
+        </Link>
+        <Link href={'http://github.com/danaoira/cgv'}>
+          <Tile image={'curriculum-graph-visualizer.png'} style={{ backgroundPosition: 'left bottom', backgroundSize: '200%' }}>
+            <Detail>
+              <Title>Curriculum Graph Visualizer</Title>
+              <Subtitle>Python, GraphViz, DOTS</Subtitle>
+            </Detail>
+          </Tile>
+        </Link>
       </Grid3Col>
     )
   }
