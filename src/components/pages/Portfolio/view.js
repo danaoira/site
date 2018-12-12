@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom'
 import styled from 'styled-components'
 import { theme } from '../../../utils'
 
-const Grid3Col = styled.div`
+const Grid = styled.div`
   display: flex;
   flex-direction: column;
   min-height: 50vh;
@@ -27,11 +27,9 @@ const Tile = styled.div`
   height: 36vh;
   display: table;
   width: 100%;
-  transition: background 0.9s ease-in-out;
 
   :hover {
     cursor: ${props => props.wip ? 'not-allowed' : 'pointer'};
-    background: ${theme.color.pink};
   }
 
   > div {
@@ -51,13 +49,14 @@ const Tile = styled.div`
 
 const Title = styled.div`
   font-size: 2em;
-  line-height: 1.6em;
+  line-height: 1.8em;
   display: block;
 `
 
 const Subtitle = styled.div`
   font-size: 1.2em;
   font-style: italic;
+  line-height: 1.8em;
   display: block;
 `
 
@@ -66,7 +65,7 @@ const Detail = styled.div`
   height: 100%;
   background: ${theme.color.pink};
   opacity: 0;
-  transition: opacity 1s ease-in-out;
+  transition: opacity 0.7s ease-in-out;
 
   :hover {
     opacity: 1;
@@ -93,16 +92,18 @@ class About extends Component {
     const { callback } = this.props
 
     return (
-      <Grid3Col>
+      <Grid>
         <Tile wip>
           <div>
             <Title>BART Ridership</Title>
+            <Subtitle>daily station-to-station ridership map</Subtitle>
             <Subtitle>coming soon</Subtitle>
           </div>
         </Tile>
         <Tile wip>
           <div>
             <Title>Chart Selection</Title>
+            <Subtitle>interactive graph selection flow chart</Subtitle>
             <Subtitle>coming soon</Subtitle>
           </div>
         </Tile>
@@ -120,7 +121,7 @@ class About extends Component {
         <Link href={'https://bl.ocks.org/danaoira/7e2ffa935c8da4f97681f376f34ae5a5'}>
           <Tile image={'nations.png'} style={{ backgroundPosition: '87% bottom', backgroundSize: 'cover' }}>
             <Detail>
-              <Title>Nations</Title>
+              <Title>Health & Wealth of Nations</Title>
               <Subtitle>D3.js</Subtitle>
             </Detail>
           </Tile>
@@ -133,7 +134,7 @@ class About extends Component {
             </Detail>
           </Tile>
         </Link>
-      </Grid3Col>
+      </Grid>
     )
   }
 }

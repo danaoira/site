@@ -3,7 +3,7 @@ import styled from 'styled-components'
 import { theme } from '../../../utils'
 import { Subtitle, Paragraph } from '../../../style'
 
-const Grid2Col = styled.div`
+const Grid = styled.div`
   display: flex;
   flex-direction: column;
   min-height: 50vh;
@@ -62,7 +62,7 @@ const Color = ({ name, color, hex }) => (
 class Brand extends Component {
   render() {
     return (
-      <Grid2Col>
+      <Grid>
         <Section>
           <Subtitle>Typography</Subtitle>
           <Paragraph>
@@ -83,7 +83,7 @@ class Brand extends Component {
             <Color name={'Black'} color={theme.color.black} hex={'#454545'} />
           </ColorGrid>
         </Section>
-      </Grid2Col>
+      </Grid>
     )
   }
 }

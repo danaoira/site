@@ -10,12 +10,20 @@ const Grid2Col = styled.div`
   min-height: 50vh;
   padding: 1em;
 
+  > .about {
+    grid-area: about;
+    grid-row: 1 / span 4;
+  }
+
   @media (min-width: 1024px) {
     display: grid;
-    grid-template-columns: 1fr;
-    column-gap: 2em;
+    grid-template-areas: 'about current'
+                         'about former'
+                         'about associations';
+    grid-auto-columns: 1fr;
+    column-gap: 3em;
     row-gap: 2em;
-    padding: 92px 0;
+    padding: 28px 0;
   }
 `
 
@@ -39,7 +47,10 @@ const Subtitle = styled.div`
   display: block;
 `
 
-const Paragraph = styled.div``
+const Paragraph = styled.div`
+  line-height: 1.6em;
+  margin-bottom: 1em;
+`
 
 const List = styled.ul`
   list-style-type: none;
@@ -48,53 +59,6 @@ const List = styled.ul`
 const ListItem = styled.li`
   line-height: 1.6em;
 `
-
-const lists = {
-  current: [
-    {
-      link: links.noodle,
-      role: 'UI Engineer',
-      org: 'Noodle.ai',
-      desc: `(we're hiring!)`
-    }
-  ],
-  former: [
-    {
-      link: links.wd,
-      role: 'Engineer Intern',
-      org: 'Western Digital'
-    },
-    {
-      link: links.codazen,
-      role: 'Web Developer',
-      org: 'Codazen'
-    },
-    {
-      link: links.csuf,
-      role: 'Grad Student',
-      org: 'CSUF Computer Science'
-    },
-    {
-      link: links.uci,
-      role: 'Undergrad',
-      org: 'UCI Public Health'
-    }
-  ],
-  associations: [
-    {
-      link: links.acm,
-      org: 'Association for Computing Machinery' 
-    },
-    {
-      link: links.wibd,
-      org: 'Women in Big Data'
-    },
-    {
-      link: links.sfcma,
-      org: 'San Francisco Civic Music Association'
-    }
-  ]
-}
 
 const Link = styled.a`
   color: ${theme.color.black};
@@ -120,12 +84,9 @@ const LinkSection = ({ data, title }) => {
     <Section>
       <Title>{title}</Title>
       <List>
-        {data.map(d => {
-          console.log(d)
-          return (
-            <ListItem>{d.role ? `${d.role} at ` : null}<Link href={d.link}>{d.org}</Link> {d.desc ? (<SideNote>~we're hiring!</SideNote>) : null}</ListItem>
-          )
-        })}
+        {data.map(d => (
+          <ListItem>{d.role ? `${d.role} at ` : null}<Link href={d.link}>{d.org}</Link> {d.desc ? (<SideNote>{d.desc}</SideNote>) : null}</ListItem>
+        ))}
       </List>
     </Section>
   )
@@ -145,13 +106,19 @@ class About extends Component {
   render() {
     return (
       <Grid2Col>
-        {/* <Section>
-          <Title>About</Title>
-          <Paragraph>I like to make connections out of arbitrary things.</Paragraph>
-        </Section> */}
-        <LinkSection data={lists.current} title={'Current'} />
-        <LinkSection data={lists.former} title={'Former'} />
-        <LinkSection data={lists.associations} title={'Associations'} />
+        <Section className={'about'}>
+          <Title>Hello, my name is Dana.</Title>
+          <Paragraph>I like to say that I grew up with the Internet.</Paragraph>
+          <Paragraph>I started creating websites in 1999 in grade school. Those were the days of dial-up, <Link href={links.dhtml}>DHTML</Link> and life before social networks existed - it was a magical, unexplored frontier.</Paragraph>
+          <Paragraph>While discovering my career path, I studied Public Health where I used <Link href={links.r}>R</Link> to visualize <Link href={links.epidemiology}>epidemiology</Link> and statistics. I took <Link href={links.hci}>Human Computer Interaction</Link> on a whim and realized my love for creating on the internet was still there.</Paragraph>
+          <Paragraph>I was later accepted to a computer science graduate program where I enjoyed studying <Link href={links.graphtheory}>graph theory</Link>, <Link href={links.computation}>theory of computation</Link> and advanced software processes.</Paragraph>
+          <Paragraph>In the programs I enjoyed the most, I realized creating data visualizations was the common denominator.</Paragraph>
+          <Paragraph>Today, I am a UI Engineer based in San Francisco where I enjoy the challenge of taking arbitrary ideas and transforming them into beautiful and functional data visualizations.</Paragraph>
+        </Section>
+        <LinkSection data={links.lists.current} title={'Current'} />
+        <LinkSection data={links.lists.former} title={'Former'} />
+        <LinkSection data={links.lists.associations} title={'Associations'} />
+        <Section><img src={require('../../../images/danaoira.jpg')} style={{ width: 120, borderRadius: '50%', marginTop: '.4em' }}></img></Section>
         {/* <Section>
           <Title>Currently</Title>
           <List>
