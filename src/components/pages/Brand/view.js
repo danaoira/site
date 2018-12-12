@@ -7,18 +7,14 @@ const Grid2Col = styled.div`
   display: flex;
   flex-direction: column;
   min-height: 50vh;
-  margin-top: 92px;
 
   @media (min-width: 1024px) {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 2em;
     row-gap: 2em;
+    margin-top: 92px;
   }
-`
-
-const GridHeader = styled.div`
-  grid-column: span 2;
 `
 
 const AccentFont = styled.span`
@@ -67,7 +63,6 @@ class Brand extends Component {
   render() {
     return (
       <Grid2Col>
-        {/* <GridHeader /> */}
         <Section>
           <Subtitle>Typography</Subtitle>
           <Paragraph>
@@ -84,10 +79,8 @@ class Brand extends Component {
           <Subtitle>Colors</Subtitle>
           <ColorGrid>
             <Color name={'Pink'} color={theme.color.pink} hex={'#eedede'} />
-            <Color name={'Gray'} color={theme.color.gray} hex={'#cccbc9'} />
-            <Color name={'Black'} color={theme.color.black} hex={'#343434'} />
-            {/* <Color name={'White'} color={theme.color.white} hex={'#eedede'} /> */}
-            {/* <Color name={'Yellow'} color={theme.color.yellow} hex={'#eedede'} /> */}
+            <Color name={'Gray'} color={theme.color.gray} hex={'#cdcdcd'} />
+            <Color name={'Black'} color={theme.color.black} hex={'#454545'} />
           </ColorGrid>
         </Section>
       </Grid2Col>

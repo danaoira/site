@@ -2,8 +2,8 @@ const theme = {}
 
 theme.color = {
   pink: '#EEDEDE',
-  gray: '#CCCBC9',
-  black: '#343434',
+  gray: '#CDCDCD',
+  black: '#454545',
   white: '#FFFFFF',
   yellow: '#FFFF00'
 }

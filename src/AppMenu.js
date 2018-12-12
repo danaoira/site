@@ -2,8 +2,8 @@ import React, { Component } from 'react'
 import { links } from './utils'
 import { Menu, Title, Subtitle, List, Link } from './style'
 
-const ListItem = ({ text, url, last }) => (
-  <li><Link href={url}>{text}</Link> {!last && ' '}&nbsp; </li>
+const ListItem = (props) => (
+  <li><Link {...props}>{props.children}</Link></li>
 )
 
 class AppMenu extends Component {
@@ -15,12 +15,11 @@ class AppMenu extends Component {
         <Title>Dana Oira</Title>
         <Subtitle>Data Visualization<br />Software Engineer</Subtitle>
         <List>
-          <li><Link onClick={() => handlePageSelect('about') }>About</Link></li>
-          <li><Link onClick={() => handlePageSelect('brand') }>Brand</Link></li>
-          <li><Link onClick={() => handlePageSelect('portfolio') }>Portfolio</Link></li>
-          <ListItem text={'LinkedIn'} url={links.linkedin} />
-          <ListItem text={'GitHub'} url={links.github} />
-          <ListItem text={'Email'} url={'mailto:danaoira@live.com'} />
+          <ListItem onClick={() => handlePageSelect('about')}>About</ListItem>
+          <ListItem onClick={() => handlePageSelect('portfolio')}>Portfolio</ListItem>
+          <ListItem href={links.linkedin}><i className="fab fa-linkedin"></i></ListItem>
+          <ListItem href={links.github}><i className="fab fa-github"></i></ListItem>
+          <ListItem href={'mailto:danaoira@live.com'}><i className="far fa-envelope"></i></ListItem>
         </List>
       </Menu>
     )

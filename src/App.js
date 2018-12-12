@@ -29,9 +29,8 @@ class App extends Component {
   render() {
     return (
       <Provider store={store}>
-        <div></div>
-        <ConnectedAppMain />
         <ConnectedAppMenu />
+        <ConnectedAppMain />
       </Provider>
     )
   }
