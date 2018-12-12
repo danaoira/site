@@ -67,10 +67,13 @@ const Link = styled.a`
   font-family: ${theme.type.accent.fontFamily};
   font-size: 1em;
   text-decoration: none;
+  border-bottom: solid 2px ${theme.color.white};
+  transition: border-bottom 1s ease-in-out;
 
   :hover {
     color: ${theme.color.black};
-    background: ${theme.color.pink};
+    border-bottom: solid 2px ${theme.color.pink};
+    cursor: pointer;
   }
 `
 

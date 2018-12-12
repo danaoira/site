@@ -95,12 +95,14 @@ const lists = {
 
 const Link = styled.a`
   color: ${theme.color.black};
-  background: ${theme.color.pink};
+  //background: ${theme.color.pink};
   text-decoration: none;
-  font-weight: 600;
+  border-bottom: solid 2px ${theme.color.pink};
+  transition: border-bottom 1s ease-in-out;
 
   :hover {
     background: ${theme.color.white};
+    border-bottom: solid 2px ${theme.color.white};
   }
 `
 
@@ -124,10 +126,10 @@ class About extends Component {
   render() {
     return (
       <Grid2Col>
-        <Section>
+        {/* <Section>
           <Title>About</Title>
           <Paragraph>I like to make connections out of arbitrary things.</Paragraph>
-        </Section>
+        </Section> */}
         <LinkSection data={lists.current} title={'Current'} />
         <LinkSection data={lists.former} title={'Former'} />
         <LinkSection data={lists.associations} title={'Associations'} />
