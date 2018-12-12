@@ -12,7 +12,7 @@ const Grid3Col = styled.div`
     grid-template-columns: 1fr 1fr;
     column-gap: 2em;
     row-gap: 2em;
-    margin: 92px 0;
+    margin: 5em 0;
   }
 `
 
@@ -22,12 +22,11 @@ const Tile = styled.div`
   color: ${props => props.wip ? theme.color.white : theme.color.black};
   font-weight: ${theme.type.fontWeight.normal};
   border: solid 1px ${theme.color.pink};
-  font-size: 2em;
+  background: ${props => props.image ? `url(${require('../../../images/' + props.image)})` : null};
   height: 36vh;
   display: table;
   text-decoration: none;
   width: 100%;
-  background: ${props => props.image ? `url(${require('../../../images/' + props.image)})` : null};
 
   :hover {
     cursor: ${props => props.wip ? 'not-allowed' : 'pointer'};
@@ -50,13 +49,13 @@ const Tile = styled.div`
 `
 
 const Title = styled.div`
-  font-size: 1em;
+  font-size: 2em;
   line-height: 1.6em;
   display: block;
 `
 
 const Subtitle = styled.div`
-  font-size: 0.6em;
+  font-size: 1.2em;
   font-style: italic;
   display: block;
 `
@@ -80,7 +79,7 @@ class About extends Component {
           </div>
         </Tile>
         <Tile onClick={() => callback('brand')}>
-          <div>Brand</div>
+          <Title>Brand</Title>
         </Tile>
         <a href={'http://bl.ocks.org/danaoira/6b271c84d8a22789b6145ff1e82d8eb4'}>
           <Tile image={'exoplanets.png'} style={{ backgroundPosition: '30% 75%', backgroundSize: '200%' }} />
