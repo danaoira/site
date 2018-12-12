@@ -13,7 +13,7 @@ const Grid = styled.div`
     grid-template-columns: 1fr 1fr;
     column-gap: 2em;
     row-gap: 2em;
-    margin: 5em 0;
+    margin: 28px 0;
   }
 `
 
