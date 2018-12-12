@@ -41,12 +41,6 @@ const Title = styled.div`
   display: block;
 `
 
-const Subtitle = styled.div`
-  font-size: 1.2em;
-  font-style: italic;
-  display: block;
-`
-
 const Paragraph = styled.div`
   line-height: 1.6em;
   margin-bottom: 1em;
@@ -119,29 +113,6 @@ class About extends Component {
         <LinkSection data={links.lists.former} title={'Former'} />
         <LinkSection data={links.lists.associations} title={'Associations'} />
         <Section><img src={require('../../../images/danaoira.jpg')} style={{ width: 120, borderRadius: '50%', marginTop: '.4em' }}></img></Section>
-        {/* <Section>
-          <Title>Currently</Title>
-          <List>
-            <ListItem>UI Engineer at Noodle.ai</ListItem>
-          </List>
-        </Section>
-        <Section>
-          <Title>Formerly</Title>
-          <List>
-            <ListItem><a href={links.wd}>Engineer Intern at Western Digital</a></ListItem>
-            <ListItem>Web Developer at Codazen</ListItem>
-            <ListItem>Grad Student at CSUF Computer Science</ListItem>
-            <ListItem>Undergrad at UCI Public Health</ListItem>
-          </List>
-        </Section>
-        <Section>
-          <Title>Associations</Title>
-          <List>
-            <ListItem>Association for Computing Machinery (ACM)</ListItem>
-            <ListItem>Women in Big Data (WiBD)</ListItem>
-            <ListItem>San Francisco Civic Music Association</ListItem>
-          </List>
-        </Section> */}
       </Grid2Col>
     )
   }

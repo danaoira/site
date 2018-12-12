@@ -89,7 +89,7 @@ class About extends Component {
   }
   
   render() {
-    const { callback } = this.props
+    // const { callback } = this.props
 
     return (
       <Grid>

@@ -23,10 +23,6 @@ let store = createStore(
 epicMiddleware.run(combinedEpics)
 
 class App extends Component {
-  constructor(props) {
-    super(props)
-  }
-
   componentWillMount() {
     store.dispatch(uiSelectPage('portfolio'))
   }
