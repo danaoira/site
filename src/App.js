@@ -7,6 +7,7 @@ import combinedEpics from './store/combinedEpics'
 import AppContainer from './containers/AppContainer'
 import AppMain from './AppMain'
 import AppMenu from './AppMenu'
+import { uiSelectPage } from './store/ui/actions'
 
 const ConnectedAppMenu = AppContainer(AppMenu)
 const ConnectedAppMain = AppContainer(AppMain)
@@ -24,6 +25,10 @@ epicMiddleware.run(combinedEpics)
 class App extends Component {
   constructor(props) {
     super(props)
+  }
+
+  componentWillMount() {
+    store.dispatch(uiSelectPage('portfolio'))
   }
 
   render() {
