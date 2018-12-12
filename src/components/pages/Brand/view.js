@@ -41,7 +41,6 @@ const ColorGrid = styled.div`
 `
 
 const Section = styled.section`
-  // background-color: ${theme.color.pink};
   min-height: 50vh;
 
   @media (min-width: 1024px) {

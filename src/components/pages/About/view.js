@@ -56,7 +56,6 @@ const ListItem = styled.li`
 
 const Link = styled.a`
   color: ${theme.color.black};
-  //background: ${theme.color.pink};
   text-decoration: none;
   border-bottom: solid 2px ${theme.color.pink};
   transition: border-bottom 0.5s ease-in-out;
@@ -86,6 +85,18 @@ const LinkSection = ({ data, title }) => {
   )
 }
 
+const Avatar = styled.img`
+  width: 120px;
+  border-radius: 50%;
+  margin-top: 1em;
+`
+
+const AvatarSection = () => (
+  <Section>
+    <Avatar src={require('../../../images/danaoira.jpg')} />
+  </Section>
+)
+
 class About extends Component {
   componentDidMount() {
     var elem = ReactDOM.findDOMNode(this)
@@ -103,16 +114,16 @@ class About extends Component {
         <Section className={'about'}>
           <Title>Hello, my name is Dana.</Title>
           <Paragraph>I like to say that I grew up with the Internet.</Paragraph>
-          <Paragraph>I started creating websites in 1999 in grade school. Those were the days of dial-up, <Link href={links.dhtml}>DHTML</Link> and life before social networks existed - it was a magical, unexplored frontier.</Paragraph>
+          <Paragraph>I started creating websites in 1999 in grade school. Those were the days of dial-up, <Link href={links.dhtml}>DHTML</Link> and life before social networks existed - it was a magical, neverending frontier.</Paragraph>
           <Paragraph>While discovering my career path, I studied Public Health where I used <Link href={links.r}>R</Link> to visualize <Link href={links.epidemiology}>epidemiology</Link> and statistics. I took <Link href={links.hci}>Human Computer Interaction</Link> on a whim and realized my love for creating on the internet was still there.</Paragraph>
           <Paragraph>I was later accepted to a computer science graduate program where I enjoyed studying <Link href={links.graphtheory}>graph theory</Link>, <Link href={links.computation}>theory of computation</Link> and advanced software processes.</Paragraph>
-          <Paragraph>In the programs I enjoyed the most, I realized creating data visualizations was the common denominator.</Paragraph>
-          <Paragraph>Today, I am a UI Engineer based in San Francisco where I enjoy the challenge of taking arbitrary ideas and transforming them into beautiful and functional data visualizations.</Paragraph>
+          <Paragraph>After all the code I wrote, I realized that the common denominator was creating data visualizations.</Paragraph>
+          <Paragraph>These days, I am a UI Engineer based in San Francisco where I enjoy the challenge of taking arbitrary ideas and transforming them into beautiful and functional data visualizations.</Paragraph>
         </Section>
         <LinkSection data={links.lists.current} title={'Current'} />
         <LinkSection data={links.lists.former} title={'Former'} />
         <LinkSection data={links.lists.associations} title={'Associations'} />
-        <Section><img src={require('../../../images/danaoira.jpg')} style={{ width: 120, borderRadius: '50%', marginTop: '.4em' }}></img></Section>
+        <AvatarSection />
       </Grid2Col>
     )
   }
