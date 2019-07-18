@@ -4,8 +4,8 @@ import { createStore, applyMiddleware, compose } from 'redux'
 import { createEpicMiddleware } from 'redux-observable'
 import combinedReducer from './store/combinedReducer'
 import combinedEpics from './store/combinedEpics'
-import { Main, Menu } from './pages/App'
 import { uiSelectPage } from './store/ui/actions'
+import { Main, Menu } from './pages/App'
 
 const epicMiddleware = createEpicMiddleware()
 const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose
