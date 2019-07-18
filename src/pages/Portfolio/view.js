@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import ReactDOM from 'react-dom'
 import styled from 'styled-components'
-import { theme } from '../../../utils'
+import { theme } from '../../utils'
 
 const Grid = styled.div`
   display: flex;
@@ -23,7 +23,7 @@ const Tile = styled.div`
   color: ${props => props.wip ? theme.color.white : theme.color.black};
   font-weight: ${theme.type.fontWeight.normal};
   border: solid 1px ${theme.color.pink};
-  background: ${props => props.image ? `url(${require('../../../images/' + props.image)})` : null};
+  background: ${props => props.image ? `url(${require('../../images/' + props.image)})` : null};
   height: 36vh;
   display: table;
   width: 100%;

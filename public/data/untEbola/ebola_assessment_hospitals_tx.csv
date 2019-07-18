@@ -1,0 +1,525 @@
+Name,Address,City,County,ZipCode,State,Latitude,Longitude,AcuteCareBeds
+Hendrick Medical Center,1900 Pine,Abilene,TAYLOR,79601-2432,TX,32.47902,-99.70002,522
+Abilene Regional Medical Center,6250 Highway 83/84,Abilene,TAYLOR,79606-5299,TX,32.37480843,-99.74361181,231
+CHRISTUS Spohn Hospital Alice,2500 East Main,Alice,JIM WELLS,78332-4169,TX,27.76481551,-98.04486539,135
+Texas Health Presbyterian Hospital Allen,1105 Central Expressway North,Allen,COLLIN,75013-6103,TX,33.11340455,-96.67258173,73
+Big Bend Regional Medical Center,2600 Highway 118 North,Alpine,BREWSTER,79830-2002,TX,30.347023,-103.658015,25
+Baptist St. Anthony's Hospital,1600 Wallace Boulevard,Amarillo,POTTER,79106-1799,TX,35.19641212,-101.9192141,445
+Northwest Texas Hospital,P. O. Box 1110,Amarillo,POTTER,79175-1110,TX,35.20038355,-101.8282925,475
+Plum Creek Specialty Hospital,5601 Plum Creek Drive,Amarillo,POTTER,79124-1801,TX,35.21872073,-101.9022276,47
+Vibra Hospital of Amarillo,7501 Wallace Blvd,Amarillo,POTTER,79106,TX,35.212981,-101.901659,72
+Bayside Community Hospital,P. O. Box 398,Anahuac,CHAMBERS,77514-0398,TX,29.768783,-94.665834,14
+Permian Regional Medical Center,P. O. Box 2108,Andrews,ANDREWS,79714-2108,TX,32.32711,-102.548597,49
+Angleton-Danbury Medical Center,132 East Hospital Drive,Angleton,BRAZORIA,77515-4197,TX,29.18403192,-95.40468791,64
+Anson General Hospital,101 Avenue J,Anson,JONES,79501-2198,TX,32.76655469,-99.89541128,45
+Care Regional Medical Center,1711 West Wheeler Avenue,Aransas Pass,SAN PATRICIO,78336-4536,TX,27.91547217,-97.16122374,75
+Texas Health Arlington Memorial Hospital,800 West Randol Mill Road,Arlington,TARRANT,76012-2503,TX,32.74896844,-97.11579405,369
+Medical Center of Arlington,3301 Matlock Road,Arlington,TARRANT,76015-2998,TX,32.6928714,-97.11495725,342
+Kindred Hospital - Tarrant County,1000 North Cooper Street,Arlington,TARRANT,76011-5540,TX,32.72555532,-97.11376291,80
+USMD Hospital at Arlington,801 West I-20,Arlington,TARRANT,76017-5851,TX,32.67894412,-97.117804,34
+Baylor Orthopedic and Spine Hospital at Arlington,707 Highlander Boulevard,Arlington,TARRANT,76015-4319,TX,32.68271159,-97.11520957,24
+Texas Health Heart & Vascular Hospital  Arlington,800 W. Randol Mill  Rd.,Arlington,TARRANT,76012-2504,TX,32.74896844,-97.11579405,48
+Stonewall Memorial Hospital,P. O. Box C,Aspermont,STONEWALL,79502-0902,TX,33.1092,-100.2708,20
+East Texas Medical Center Athens,2000 South Palestine Street,Athens,HENDERSON,75751-5610,TX,32.16921479,-95.84280449,127
+Atlanta Memorial Hospital,P. O. Box 1049,Atlanta,CASS,75551-1049,TX,33.115529,-94.170131,65
+Baylor Emergency Medical Center at Aubrey,26791 Highway 380,Aubrey,DENTON,76227,TX,33.292349,-96.986964,16
+University Medical Center at Brackenridge,601 East 15th Street,Austin,TRAVIS,78701-1996,TX,30.27469799,-97.73348525,393
+St. David's Medical Center,919 East 32nd Street,Austin,TRAVIS,78705-2709,TX,30.29087326,-97.72696154,570
+Seton Medical Center Austin,1201 West 38th Street,Austin,TRAVIS,78705-1056,TX,30.30481499,-97.74559113,534
+St. David's South Austin Medical Center,901 West Ben White Boulevard,Austin,TRAVIS,78704-6903,TX,30.22722865,-97.77348628,304
+Cornerstone Hospital of Austin,4207 Burnet Road,Austin,TRAVIS,78756-3396,TX,30.31186798,-97.7437636,157
+North Austin Medical Center,12221 Mopac Expressway North,Austin,TRAVIS,78758-2496,TX,30.41155568,-97.7063756,332
+Seton Northwest Hospital,11113 Research Boulevard,Austin,TRAVIS,78759-5236,TX,30.40557782,-97.74333129,124
+Seton Southwest Hospital,7900 FM 1826,Austin,TRAVIS,78737-1407,TX,30.216676,-97.915859,33
+Arise Austin Medical Center,3003 Bee Caves Road,Austin,TRAVIS,78746-5542,TX,30.27077743,-97.79329551,23
+The Hospital at Westlake Medical Center,5656 Bee Caves Road STE M-302,Austin,TRAVIS,78746,TX,30.29441195,-97.82416636,23
+Dell Children's Medical Center,4900 Mueller Boulvard,Austin,TRAVIS,78746,TX,30.30126733,-97.70587715,248
+Lakeway Regional Medical Center,100 Medical Parkway,Austin,TRAVIS,78738-5621,TX,30.319171,-97.93746,106
+Reliant Austin,330 West Ben White,Austin,TRAVIS,78704,TX,30.22579753,-97.76631926,60
+Texas Health Harris Methodist Hospital Azle,108 Denver Trail,Azle,TARRANT,76020-3697,TX,32.88019531,-97.53206599,36
+Ballinger Memorial Hospital District,P.O. Box 617,Ballinger,RUNNELS,76821-0617,TX,31.73412,-99.9615,25
+Matagorda Regional Medical Center,104 7th Street,Bay City,MATAGORDA,77414-4853,TX,28.963849,-95.94808,58
+Houston Methodist San Jacinto Hospital,4401 Garth Road,Baytown,HARRIS,77521-3160,TX,29.76843764,-94.98014086,392
+Baptist Hospitals of Southeast Texas,P. O. Box 1591,Beaumont,JEFFERSON,77704-1591,TX,30.072586,-94.103117,502
+CHRISTUS St. Elizabeth Hospital,P. O. Box 5405,Beaumont,JEFFERSON,77726-5405,TX,30.091114,-94.145957,658
+CHRISTUS Dubuis Hospital of Beaumont,2830 Calder Avenue 4th Floor,Beaumont,JEFFERSON,77702-1809,TX,30.08568362,-94.13129451,51
+Harbor Hospital of Southeast Texas,860 South 8th Street,Beaumont,JEFFERSON,77701-4626,TX,30.06881453,-94.12467921,30
+Victory Medical Center Beaumont,6025 Metropolitan Drive,Beaumont,JEFFERSON,77706-2407,TX,30.094918,-94.167107,17
+Texas Health Harris Methodist Hospital Hurst-Euless-Bedford,1600 Hospital Parkway,Bedford,TARRANT,76022-6913,TX,32.83511167,-97.12330695,234
+CHRISTUS Spohn Hospital Beeville,1500 East Houston Highway,Beeville,BEE,78102-5383,TX,28.40786998,-97.73264636,69
+Houston Orthopedic & Spine Hospital,5410 West Loop South,Bellaire,HARRIS,77401,TX,29.72405895,-95.46114194,64
+Bellville St. Joseph Health Center,P. O. Box 977,Bellville,AUSTIN,77418-0977,TX,29.98968,-96.25404,32
+Reagan Memorial Hospital,805 North Main Avenue,Big Lake,REAGAN,76932-3938,TX,31.212019,-101.46334,14
+Scenic Mountain Medical Center,1601 West 11th Place,Big Spring,HOWARD,79720-4198,TX,32.24208988,-101.4825569,150
+Red River Regional Hospital,P.O. Drawer C,Bonham,FANNIN,75418-4096,TX,33.585686,-96.177204,25
+Golden Plains Community Hospital,100 Medical Drive,Borger,HUTCHINSON,79007-7579,TX,35.67798,-101.41638,25
+Bowie Memorial Hospital,705 East Greenwood Avenue,Bowie,MONTAGUE,76230-3199,TX,33.56137127,-97.83452782,49
+Heart of Texas Healthcare System,P. O. Box 1150,Brady,MCCULLOCH,76825-1150,TX,31.39071,-99.38431,25
+Stephens Memorial Hospital,200 South Geneva Street,Breckenridge,STEPHENS,76424,TX,32.75433024,-98.88682162,40
+Scott & White Hospital - Brenham,700 Medical Parkway,Brenham,WASHINGTON,77833-5413,TX,30.14556129,-96.39943804,60
+North Texas Community Hospital,1905 Doctors' Hospital Drive,Bridgeport,WISE,76426-2260,TX,33.2204369,-97.76173555,36
+Brownfield Regional Medical Center,705 East Felt Street,Brownfield,TERRY,79316-3439,TX,33.18715539,-102.2677503,45
+Valley Baptist Medical Center - Brownsville,P. O. Box 3590,Brownsville,CAMERON,78523-3590,TX,26.002329,-97.57273,280
+Valley Regional Medical Center,P. O. Box 3710,Brownsville,CAMERON,78523-3710,TX,26.002329,-97.57273,214
+Brownsville Doctors Hospital,4750 North Expressway,Brownsville,CAMERON,78526-4120,TX,25.931144,-97.496733,56
+Brownwood Regional Medical Center,P. O. Box 760,Brownwood,BROWN,76804-0760,TX,31.605035,-99.017479,194
+St. Joseph Regional Health Center,2801 Franciscan Drive,Bryan,BRAZOS,77802-2599,TX,30.65598056,-96.34672127,258
+The Physicians Centre Hospital,3131 University Drive East,Bryan,BRAZOS,77802-3473,TX,30.6505009,-96.29753548,16
+CHRISTUS Dubuis Hospital of Bryan,1600 Joseph Drive,Bryan,BRAZOS,77802-1502,TX,30.65999395,-96.3502652,30
+Seton Highland Lakes,P.O. Box 1219,Burnet,BURNET,78611-7219,TX,30.759861,-98.225244,25
+Burleson St. Joseph Health Center of Caldwell Tx,P. O. Box 360,Caldwell,BURLESON,77836-0360,TX,30.565402,-96.749186,25
+Central Texas Hospital,P. O. Box 947,Cameron,MILAM,76520-0947,TX,30.851242,-96.976377,44
+Hemphill County Hospital,1020 South Fourth Street,Canadian,HEMPHILL,79014-3315,TX,35.8731,-100.33542,26
+Dimmit County Memorial Hospital,P. O. Box 1016,Carrizo Springs,DIMMIT,78834-7016,TX,28.5207,-99.88848,48
+Baylor Medical Center at Carrollton,4343 North Josey Lane,Carrollton,DENTON,75010-4691,TX,33.029177,-96.88390332,232
+Select Specialty Hospital - Dallas,2329 Parker Road,Carrollton,DENTON,75010-4713,TX,33.04564975,-96.86470876,60
+East Texas Medical Center - Carthage,409 West Cottage Road,Carthage,PANOLA,75633-1466,TX,32.155436,-94.342182,42
+Cedar Park Regional Medical Center,1401 Medical Parkway,Cedar Park,WILLIAMSON,78613-7464,TX,30.53142357,-97.81725839,85
+Scott & White Emergency Hospital at Cedar Park,900 East Whitestone Boulevard,Cedar Park,WILLIAMSON,78613-9093,TX,30.51728228,-97.84005546,8
+Shelby Regional Medical Center,P. O. Box 1749,Center,SHELBY,75935-1749,TX,31.79508,-94.16418,54
+Kindred Hospital East Houston,15101 East Freeway,Channelview,HARRIS,77530-4104,TX,29.7741916,-95.14922181,230
+Childress Regional Medical Center,P. O. Box 1030,Childress,CHILDRESS,79201-1030,TX,34.4325,-100.14582,39
+Chillicothe Hospital,P. O. Box 370,Chillicothe,HARDEMAN,79225-0370,TX,34.254787,-99.514254,21
+East Texas Medical Center - Clarksville,P. O. Box 1270,Clarksville,RED RIVER,75426-1270,TX,33.610301,-95.0498,43
+Texas Health Harris Methodist Hospital Cleburne,201 Walls Drive,Cleburne,JOHNSON,76033,TX,32.345415,-97.387647,137
+Cleveland Regional Medical Center,P. O. Box 1688,Cleveland,LIBERTY,77328-1688,TX,30.341748,-95.086861,107
+Goodall-Witcher Hospital,P. O. Box 549,Clifton,BOSQUE,76634-0549,TX,31.8117,-97.49082,33
+Coleman County Medical Center,310 South Pecos Street,Coleman,COLEMAN,76834-4159,TX,31.82823805,-99.42528466,25
+College Station Medical Center,P. O. Box 10000,College Station,BRAZOS,77842-3500,TX,30.62996,-96.333212,167
+Scott & White Hospital - College Station,700 Scott & White Drive,College Station,BRAZOS,77845,TX,30.583511,-96.294277,119
+Mitchell County Hospital,997 West Interstate 20,Colorado City,MITCHELL,79512-3998,TX,32.394374,-100.859048,25
+Columbus Community Hospital,110 Shult Drive,Columbus,COLORADO,78934-3016,TX,29.69439602,-96.54241521,40
+Comanche County Medical Center,10201 HWY 16 N,Comanche,COMANCHE,76442,TX,31.936389,-98.488333,25
+Hunt Regional Community Hospital,2900 Sterling Hart Drive,Commerce,HUNT,75428-3912,TX,33.258059,-95.931868,24
+Conroe Regional Medical Center,P. O. Box 1538,Conroe,MONTGOMERY,77305-1538,TX,30.322008,-95.462195,342
+Solara Hospital Conroe,1500 Grand Lake Drive,Conroe,MONTGOMERY,77304,TX,30.2824122,-95.46433757,41
+Aspire Hospital LLC,2006 South Loop 336 West Suite 500,Conroe,MONTGOMERY,77304,TX,30.34284,-95.47788,30
+Atrium Medical Center at Corinth,3305 Corinth Parkway,Corinth,DENTON,76208,TX,33.15375961,-97.05724112,60
+Driscoll Children's Hospital,3533 South Alameda Street,Corpus Christi,NUECES,78411-1721,TX,27.74819692,-97.38434052,189
+CHRISTUS Spohn Hospital Corpus Christi,P. O. Box 5280,Corpus Christi,NUECES,78465-5280,TX,27.776147,-97.419137,1056
+The Corpus Christi Medical Center - Bay Area,7101 South Padre Island Drive,Corpus Christi,NUECES,78412-4999,TX,27.69339118,-97.34160975,631
+Dubuis Hospital of Corpus Christi,600 Elizabeth Street Third Floor,Corpus Christi,NUECES,78404-2235,TX,27.766532,-97.401972,22
+Post Acute Specialty Hospital of Corpus Christi,6226 Saratoga Boulevard,Corpus Christi,NUECES,78414-3421,TX,27.67938954,-97.37134139,74
+Navarro Regional Hospital,3201 West Highway 22,Corsicana,NAVARRO,75110-2469,TX,32.08502997,-96.50384485,162
+Crane Memorial Hospital,1310 South Alford Street,Crane,CRANE,79731-3899,TX,31.38989855,-102.3492075,25
+East Texas Medical Center - Crockett,1100 East Loop 304,Crockett,HOUSTON,75835-1810,TX,31.32209191,-95.43709712,49
+Crosbyton Clinic Hospital,710 West Main Street,Crosbyton,CROSBY,79322-2143,TX,33.66007469,-101.2456534,25
+Cuero Community Hospital,2550 North Esplanade,Cuero,DE WITT,77954-4716,TX,29.11521798,-97.28094526,49
+North Cypress Medical Center,21214 Northwest Freeway,Cypress,HARRIS,77429,TX,29.92640152,-95.63200452,139
+Coon Memorial Hospital and Home,1411 Denver Avenue,Dalhart,HARTLEY,79022-4809,TX,36.05227435,-102.5217265,21
+Baylor University Medical Center,3500 Gaston Avenue,Dallas,DALLAS,75246-2088,TX,32.79043532,-96.78090289,1079
+Baylor Specialty Hospital,3504 Swiss Avenue,Dallas,DALLAS,75204-6224,TX,32.7917594,-96.78199256,68
+Children's Medical Center of Dallas,1935 Medical District Street,Dallas,DALLAS,75235-7701,TX,32.80875556,-96.8364067,591
+Parkland Memorial Hospital,5201 Harry Hines Boulevard,Dallas,DALLAS,75235-7708,TX,32.81272216,-96.83852542,968
+Kindred Hospital - Dallas,9525 Greenville Ave,Dallas,DALLAS,75243-4116,TX,32.90517662,-96.74855989,110
+Baylor Medical Center at Uptown,2727 East Lemmon Aveenue,Dallas,DALLAS,75204-2833,TX,32.798752,-96.788683,24
+Methodist Dallas Medical Center,P. O. Box 655999,Dallas,DALLAS,75265-5999,TX,32.743228,-97.00109,515
+Dallas Medical Center,P. O. Box 819094,Dallas,DALLAS,75381-9094,TX,32.944758,-96.888462,155
+Texas Health Presbyterian Hospital Dallas,8200 Walnut Hill Lane,Dallas,DALLAS,75231-4402,TX,32.88316666,-96.76213066,888
+Medical City Dallas Hospital,7777 Forest Lane,Dallas,DALLAS,75230-2505,TX,32.90946022,-96.77128152,668
+Methodist Charlton Medical Center,3500 West Wheatland Road,Dallas,DALLAS,75237-3460,TX,32.64749007,-96.8774643,285
+Doctors Hospital at White Rock Lake,9440 Poppy Drive,Dallas,DALLAS,75218-3694,TX,32.843593,-96.697965,218
+Texas Scottish Rite Hospital for Children,2222 Welborn Street,Dallas,DALLAS,75219-3924,TX,32.80202455,-96.81454462,100
+Texas Specialty Hospital at Dallas,7955 Harry Hines Boulevard,Dallas,DALLAS,75235-3305,TX,32.83339799,-96.86101405,66
+Our Children's House at Baylor,3301 Swiss Avenue,Dallas,DALLAS,75204-6219,TX,32.79112213,-96.78305769,54
+LifeCare Hospitals of Dallas,1950 Record Crossing Road,Dallas,DALLAS,75235-6223,TX,32.81758008,-96.84927143,60
+Kindred Hospital - White Rock,9440 Poppy Drive 5th Floor South,Dallas,DALLAS,75218,TX,32.843593,-96.697965,25
+Baylor Heart and Vascular Center,621 N. Hall Street,Dallas,DALLAS,75226-1339,TX,32.78783648,-96.78029653,64
+Select Specialty Hospital - South Dallas,3500 West Wheatland Road 4th Floor,Dallas,DALLAS,75237-3460,TX,32.64749007,-96.8774643,69
+University of Texas Southwestern Medical Center,5323 Harry Hines Boulevard,Dallas,DALLAS,75390-9131,TX,32.81245109,-96.8381714,459
+South Hampton Community Hospital,2929 S Hampton Road,Dallas,DALLAS,75224,TX,32.71459016,-96.85704908,111
+Pine Creek Medical Center,9032 Harry Hines  Boulevard,Dallas,DALLAS,75235,TX,32.84037981,-96.86896051,18
+Kindred Hospital Dallas Central,8050 Meadows Road,Dallas,DALLAS,75231-3406,TX,32.876553,-96.751035,60
+Forest Park Medical Center,11990 North Central Expressway,Dallas,DALLAS,75243,TX,32.91094091,-96.76811302,84
+Vibra Specialty Hospital,2700 Walker Way,De Soto,DALLAS,75115-2088,TX,32.596805,-96.866719,40
+Wise Regional Health System,2000 South FM 51,Decatur,WISE,76234-3702,TX,33.215311,-97.59758598,184
+Val Verde Regional Medical Center,801 Bedell Avenue,Del Rio,VAL VERDE,78840-4185,TX,29.37409864,-100.8924671,93
+Texoma Medical Center,5016 South US Highway 75,Denison,GRAYSON,75020-4584,TX,33.750177,-96.559463,250
+Denton Regional Medical Center,3535 South Interstate 35 East,Denton,DENTON,76210-6850,TX,33.17519682,-97.0914854,208
+Texas Health Presbyterian Hospital Denton,3000 I-35,Denton,DENTON,76201-5119,TX,33.220863,-97.144294,255
+The Heart Hospital Baylor Denton,2801 South Mahill Road,Denton,DENTON,76208,TX,33.17687277,-97.08711503,16
+Mayhill Hospital,2809 South Mayhill Road,Denton,DENTON,76208,TX,33.17586367,-97.08662307,59
+Integrity Transitional Hospital,2813 South Mayhill Road,Denton,DENTON,76208,TX,33.17402425,-97.08634162,54
+Yoakum County Hospital,P. O. Box 1130,Denver City,YOAKUM,79323-1130,TX,32.967963,-102.828509,24
+Nix Community General Hospital,230 West Miller Street,Dilley,FRIO,78017-3818,TX,28.67007276,-99.17287848,18
+Plains Memorial Hospital,P. O. Box 278,Dimmitt,CASTRO,79027-0278,TX,34.546258,-102.316894,25
+Memorial Hospital,224 East 2nd Street,Dumas,MOORE,79029-3808,TX,35.86419301,-101.9707602,60
+Rice Medical Center,P. O. Box 277,Eagle Lake,COLORADO,77434-0277,TX,29.59128,-96.34044,25
+Fort Duncan Regional Medical Center,3333 North Foster Maldonado Boulevard,Eagle Pass,MAVERICK,78852-5148,TX,28.715762,-100.492839,101
+Eastland Memorial Hospital,P. O. Box 897,Eastland,EASTLAND,76448-0897,TX,32.399569,-98.823133,52
+Concho County Hospital,P. O. Box 987,Eden,CONCHO,76837,TX,31.213843,-99.833002,16
+Edinburg Regional Medical Center,1102 West Trenton Road,Edinburg,HIDALGO,78539-9105,TX,26.26349944,-98.18459633,848
+Cornerstone Regional Hospital,2302 Cornerstone Boulevard,Edinburg,HIDALGO,78539-8471,TX,26.26395625,-98.2020048,14
+Doctor's Hospital at Renaissance,5501 South McColl,Edinburg,HIDALGO,78539-9152,TX,26.25283393,-98.20509178,530
+Jackson County Hospital,1013 South Wells Street,Edna,JACKSON,77957-4098,TX,28.97418,-96.64992,25
+El Campo Memorial Hospital,303 Sandy Corner Road,El Campo,WHARTON,77437-9535,TX,29.219068,-96.28959265,49
+University Medical Center of El Paso,P. O. Box 20009,El Paso,EL PASO,79998-0009,TX,31.76983,-106.428395,394
+Providence Memorial Hospital,2001 North Oregon Street,El Paso,EL PASO,79902-3368,TX,31.77153197,-106.4998013,508
+Las Palmas Medical Center,1801 North Oregon Street,El Paso,EL PASO,79902-3591,TX,31.76983203,-106.4983009,674
+Sierra Medical Center,1625 Medical Center Drive,El Paso,EL PASO,79902-5044,TX,31.77812221,-106.4797412,349
+Mesa Hill Specialty Hospital,2311 North Oregon Street,El Paso,EL PASO,79902-3216,TX,31.77351931,-106.5015543,32
+Kindred Hospital El Paso,1740 Curie Drive,El Paso,EL PASO,79902-2901,TX,31.77929732,-106.4773998,62
+El Paso Specialty Hospital,1755 Curie Suite A,El Paso,EL PASO,79902-2901,TX,31.77921106,-106.4780763,31
+El Paso LTAC Hospital,1221 North Cotton Third Floor,El Paso,EL PASO,79902,TX,31.789027,-106.499183,33
+Sierra Providence East Medical Center,3280 Joe Battle Boulevard,El Paso,EL PASO,79938-2622,TX,31.822773,-106.187046,110
+El Paso Children's Hospital,4845 Alameda Avenue,El Paso,EL PASO,79905,TX,31.77032113,-106.4329167,122
+Schleicher County Medical Center,P. O. Box V,Eldorado,SCHLEICHER,76936,TX,30.861414,-100.591893,14
+Electra Memorial Hospital,P. O. Box 1112,Electra,WICHITA,76360-1112,TX,34.018548,-98.896354,19
+Ennis Regional Medical Center,2201 West Lampasas  Street,Ennis,ELLIS,75119-5644,TX,32.339376,-96.566955,60
+East Texas Medical Center - Fairfield,125 Newman Street,Fairfield,FREESTONE,75840-1499,TX,31.72502989,-96.16967364,48
+Connally Memorial Medical Center,499 10th Street,Floresville,WILSON,78114-3175,TX,29.15915485,-98.17504441,44
+Texas Health Presbyterian Hospital Flower Mound,4400 Long Prairie Road,Flower Mound,DENTON,75028-1892,TX,33.04580846,-97.06749409,103
+Pecos County Memorial Hospital,P. O. Box 1648,Fort Stockton,PECOS,79735-1648,TX,30.887216,-102.881646,27
+Baylor All Saints Medical Center at Fort Worth,P. O. Box 31,Fort Worth,TARRANT,76101-0031,TX,32.759439,-97.329119,574
+Cook Children's Medical Center,801 Seventh Avenue,Fort Worth,TARRANT,76104-2796,TX,32.73696479,-97.34153662,433
+Texas Health Harris Methodist Hospital Fort Worth,1301 Pennsylvania Avenue,Fort Worth,TARRANT,76104-2190,TX,32.73778971,-97.33897576,726
+John Peter Smith Hospital,1500 South Main Street,Fort Worth,TARRANT,76104-4941,TX,32.78035021,-97.34803455,537
+Plaza Medical Center of Fort Worth,900 Eighth Avenue,Fort Worth,TARRANT,76104-3986,TX,32.72882,-97.319414,320
+Texas Health Huguley Hospital,P. O. Box 6337,Fort Worth,TARRANT,76115-6337,TX,32.682825,-97.3323,223
+LifeCare Hospitals of Fort Worth,6201 Overton Ridge Boulevard,Fort Worth,TARRANT,76132-3613,TX,32.67916242,-97.42117361,80
+Texas Health Harris Methodist Hospital Southwest Fort Worth,6100 Harris Parkway,Fort Worth,TARRANT,76132-4199,TX,32.65817905,-97.42077731,222
+Texas Health Specialty Hospital Fort Worth,1301 Pennsylvania Avenue 4th Floor,Fort Worth,TARRANT,76104-2190,TX,32.73778971,-97.33897576,15
+Kindred Hospital - Tarrant County,7800 Oakmont Boulevard,Fort Worth,TARRANT,76132-4203,TX,32.66594176,-97.42400657,80
+Kindred Hospital - Fort Worth,815 Eighth Avenue,Fort Worth,TARRANT,76104-2609,TX,32.73579665,-97.34239711,67
+Regency Hospital of Fort Worth LLLP,6801 Oakmont Boulevard,Fort Worth,TARRANT,76132,TX,32.66209944,-97.4142785,44
+USMD Hospital at Fort Worth,5900 Dirk Road,Fort Worth,TARRANT,76132-5473,TX,32.64561657,-97.41709448,8
+Texas Health Harris Methodist Hospital Alliance,10864 Texas Health Trail,Fort Worth,TARRANT,76244,TX,32.934024,-97.250604,58
+Hill Country Memorial Hospital,P. O. Box 835,Fredericksburg,GILLESPIE,78624-0835,TX,30.24985,-99.09982,86
+Parmer Medical Center,1307 Cleveland Street,Friona,PARMER,79035-1121,TX,34.64335057,-102.7211746,25
+Baylor Medical Center at Frisco,5601 Warren Parkway,Frisco,COLLIN,75034-4069,TX,33.10669527,-96.83958389,68
+Centennial Medical Center,12505 Lebanon Road,Frisco,COLLIN,75035-8298,TX,33.11592707,-96.77164756,118
+Forest Park Medical Center Frisco,5500 Frisco Square Boulevard,Frisco,COLLIN,75034,TX,33.153776,-96.848685,54
+North Texas Medical Center,1900 Hospital Boulevard,Gainesville,COOKE,76240,TX,33.621754,-97.121151,60
+Shriners Hospital for Children- Galveston,815 Market Street,Galveston,GALVESTON,77550-2720,TX,29.30977246,-94.77678217,30
+University of Texas Medical Branch Hospital,301 University Boulevard,Galveston,GALVESTON,77550-2708,TX,29.31041076,-94.77460198,380
+Baylor Medical Center at Garland,2300 Marie Curie Drive,Garland,DALLAS,75042-5706,TX,32.91868916,-96.66192147,227
+Coryell Memorial Hospital,1507 West Main Street,Gatesville,CORYELL,76528-1098,TX,31.43316069,-97.77957066,25
+East Texas Medical Center - Gilmer,712 North Wood,Gilmer,UPSHUR,75644-1751,TX,32.72205178,-94.94238186,37
+Glen Rose Medical Center,P. O. Box 2099,Glen Rose,SOMERVELL,76043-2099,TX,32.233527,-97.750119,16
+Memorial Hospital,P. O. Box 587,Gonzales,GONZALES,78629-0587,TX,29.510053,-97.452034,33
+Graham Regional Medical Center,P. O. Box 1390,Graham,YOUNG,76450-1390,TX,33.063225,-98.633058,42
+Lake Granbury Medical Center,1310 Paluxy Road,Granbury,HOOD,76048-5699,TX,32.4311915,-97.80369024,83
+Texas General Hospital,2709 Hospital Boulevard,Grand Prairie,TARRANT,75051-1017,TX,32.73284344,-97.0495784,41
+Cozby-Germany Hospital,707 North Waldrip Street,Grand Saline,VAN ZANDT,75140-1555,TX,32.67904803,-95.72185109,52
+Baylor Regional Medical Center at Grapevine,1650 West College Street,Grapevine,TARRANT,76051-3596,TX,32.93399847,-97.09379777,314
+Ethicus Hospital DFW LLC,4201 William D Tate Avenue,Grapevine,TARRANT,76051-5736,TX,32.88978978,-97.09795214,60
+Hunt Regional Medical Center Greenville,4215 Joe Ramsey Boulevard East,Greenville,HUNT,75401-7852,TX,33.12210636,-96.1243249,192
+Limestone Medical Center,701 McClintic Dr.,Groesbeck,LIMESTONE,76642-2128,TX,31.53144942,-96.52996423,20
+Renaissance Hospital Groves,5500 39th Street,Groves,JEFFERSON,77619-2999,TX,29.9388928,-93.92212464,91
+Lavaca Medical Center,1400 North Texana Street,Hallettsville,LAVACA,77964-2099,TX,29.24861,-96.70334,25
+Hamilton General Hospital,400 North Brown Street,Hamilton,HAMILTON,76531-1598,TX,31.66424,-98.41357,42
+Hamlin Memorial Hospital,P. O. Box 400,Hamlin,JONES,79520-0400,TX,32.88122,-100.126722,25
+Seton Medical Center Harker Heights,850 West Central Texas Expressway,Harker Heights,BELL,76548-1890,TX,31.116944,-97.7275,83
+Valley Baptist Medical Center,P. O. Drawer 2588,Harlingen,CAMERON,78551-2588,TX,26.207392,-97.735067,586
+Harlingen Medical Center,5501 South Expressway 77,Harlingen,CAMERON,78550-3213,TX,26.194287,-97.686999,112
+Solara Hospital Harlingen,508 Victoria Lane,Harlingen,CAMERON,78550,TX,26.16153657,-97.67236572,82
+Haskell Memorial Hospital,P. O. Box 1117,Haskell,HASKELL,79521-1117,TX,33.159597,-99.735874,25
+Sabine County Hospital,P. O. Box 750,Hemphill,SABINE,75948-0750,TX,31.30872,-93.7716,25
+East Texas Medical Center Henderson,300 Wilson Street,Henderson,RUSK,75652-5956,TX,32.16152871,-94.79639122,96
+Clay County Memorial Hospital,310 West South Street,Henrietta,CLAY,76365-3346,TX,33.8139809,-98.19748188,25
+Hereford Regional Medical Center,540 West 15th Street,Hereford,DEAF SMITH,79045-2820,TX,34.8365313,-102.3977646,42
+Hill Regional Hospital,101 Circle Drive,Hillsboro,HILL,76645,TX,32.01474,-97.10886,116
+Medina Regional Hospital,3100 Avenue E,Hondo,MEDINA,78861-3599,TX,29.35692,-99.10158,25
+Select Specialty Hospital - Houston Heights,1917 Ashland Street,Houston,HARRIS,77008-3994,TX,29.80315345,-95.40409415,300
+Memorial Hermann Hospital,6411 Fannin Street,Houston,HARRIS,77030-1501,TX,29.71479451,-95.39673188,1082
+Houston Northwest Medical Center,710 FM 1960 West,Houston,HARRIS,77090-3496,TX,30.02146736,-95.44164773,430
+Riverside General Hospital,3204 Ennis Street,Houston,HARRIS,77004-3299,TX,29.73106467,-95.36235494,88
+St. Anthony's Hospital,2807 Little York Road,Houston,HARRIS,77093,TX,29.87176824,-95.34179864,39
+University of Texas M.D. Anderson Cancer Center,1515 Holcombe Boulevard Box 43,Houston,HARRIS,77030-4009,TX,29.70631887,-95.39719498,631
+Houston Methodist Hosptial,6565 Fannin Street,Houston,HARRIS,77030-2707,TX,29.71082397,-95.39989479,1119
+Memorial Hermann Memorial City Medical Center,921 N Gessner Drive,Houston,HARRIS,77024-2501,TX,29.78007494,-95.54457709,426
+St. Joseph Medical Center,1401 St  Joseph Parkway,Houston,HARRIS,77002-8393,TX,29.74823374,-95.36675452,792
+St. Luke's Episcopal Hospital,6720 Bertner Street,Houston,HARRIS,77030-2697,TX,29.70732167,-95.39916819,850
+Shriners Hospitals For Children,6977 Main Street,Houston,HARRIS,77030-3701,TX,29.70531472,-95.40567601,40
+Spring Branch Medical Center,8850 Long Point Road,Houston,HARRIS,77055-3082,TX,29.80395449,-95.50865024,299
+Texas Children's Hospital,6621 Fannin Street,Houston,HARRIS,77030-2399,TX,29.7076517,-95.40121489,648
+TIRR Memorial Hermann,1333 Moursund Street,Houston,HARRIS,77030-3405,TX,29.70889806,-95.39501845,119
+West Houston Medical Center,12141 Richmond Avenue,Houston,HARRIS,77082-2499,TX,29.72914943,-95.59422618,276
+Memorial Hermann Northwest Hospital,1635 North Loop West,Houston,HARRIS,77008-1500,TX,29.8114973,-95.43056517,260
+Harris County Hospital District Ben Taub General Hospital,1504 Taub Loop,Houston,HARRIS,77030-1608,TX,29.71252621,-95.39375085,963
+Memorial Hermann Southeast Hospital,11800 Astoria Boulevard,Houston,HARRIS,77089-6041,TX,29.58346032,-95.20695065,274
+Park Plaza Hospital,1313 Hermann Drive,Houston,HARRIS,77004-7092,TX,29.72271961,-95.38754262,444
+The Woman's Hospital of Texas,7600 Fannin Street,Houston,HARRIS,77054-1900,TX,29.69336662,-95.40296359,397
+Memorial Hermann Southwest Hospital,7600 Beechnut Street,Houston,HARRIS,77074-4389,TX,29.6918095,-95.52581289,568
+Cypress Fairbanks Medical Center,10655 Steepletop Drive,Houston,HARRIS,77065-4297,TX,29.92771629,-95.59016319,181
+Kindred Hospital Houston Medical Center,6441 Main Street,Houston,HARRIS,77030-1596,TX,29.71294493,-95.39905317,110
+Kindred Hospital Midtown,105 Drew Street,Houston,HARRIS,77006-1527,TX,29.74863472,-95.38199636,40
+Kindred Hospital Houston Northwest,11297 Fallbrook Drive,Houston,HARRIS,77065-4230,TX,29.92446247,-95.58807396,84
+Texas Specialty Hospital at Houston,6160 South Loop East,Houston,HARRIS,77087-1010,TX,29.69418996,-95.31617597,59
+Plaza Specialty Hospital,1300 Binz Street,Houston,HARRIS,77004-7016,TX,29.724166,-95.38704602,65
+Texas Orthopedic Hospital,7401 South Main,Houston,HARRIS,77030-4509,TX,29.70015222,-95.40903425,49
+Cornerstone Hospital of South Houston,2001 Hermann Drive,Houston,HARRIS,77004,TX,29.71846713,-95.38269506,35
+Healthbridge Children's Hospital - Houston Ltd.,2929 Woodland Park Drive,Houston,HARRIS,77082-2687,TX,29.73247421,-95.57931848,40
+Kindred Hospital North Houston,7407 North Freeway,Houston,HARRIS,77076-2999,TX,29.86763582,-95.40781114,288
+Houston Methodist Willowbrook Hospital,18220 Tomball Parkway,Houston,HARRIS,77070-4318,TX,29.972794,-95.577432,251
+University General Hospital,7501 Fannin Street,Houston,HARRIS,77054,TX,29.69206195,-95.40077175,69
+Westbury Community Hospital,5556 Gasmer,Houston,HARRIS,77035,TX,29.65196868,-95.47753832,137
+St. Luke's Hospital at the Vintage,20171 Chasewood Park Drive,Houston,HARRIS,77070,TX,29.972794,-95.577432,106
+Houston Methodist West  Hospital,18500 Katy Freeway,Houston,HARRIS,77094-1110,TX,29.78531936,-95.6913057,161
+Victory Medical Center Houston,2001 Hermann Drive,Houston,HARRIS,77004,TX,29.71846713,-95.38269506,25
+Reliant Northwest Houston,20180 Chasewood Park Drive,Houston,HARRIS,77070,TX,29.972794,-95.577432,60
+Red Oak Hospital,17400 Red Oak Drive,Houston,HARRIS,77090-1246,TX,30.02474316,-95.44838375,4
+Doctors Hospital - Tidwell,510 West Tidwell Road,Houston,HARRIS,77091-4399,TX,29.84793484,-95.40870404,117
+Memorial Hermann Northeast Hospital,18951 Memorial North,Humble,HARRIS,77338,TX,29.99515341,-95.27637628,255
+Icon Hospital LLP,19211 McKay Drive,Humble,HARRIS,77338-5502,TX,29.99848181,-95.27649506,54
+Huntsville Memorial Hospital,P. O. Box 4001,Huntsville,WALKER,77342-4001,TX,30.722392,-95.531478,123
+Victory Medical Center Mid-Cities,1612 Hurst Town Center Drive,Hurst,TARRANT,76054-6236,TX,32.84298589,-97.1881836,23
+Cook Children's Northeast Hospital,6316 Precinct Line Road,Hurst,TARRANT,76054,TX,32.86354519,-97.18546301,3
+Iraan General Hospital,P. O. Box 665,Iraan,PECOS,79744-0665,TX,30.914266,-101.898345,14
+Baylor Medical Center at Irving,1901 North MacArthur Boulevard,Irving,DALLAS,75061-2291,TX,32.83377078,-96.95916212,293
+Las Colinas Medical Center,6800 North MacArthur Boulevard,Irving,DALLAS,75039-2422,TX,32.9030634,-96.9588716,100
+Faith Community Hospital,717 Magnolia Street,Jacksboro,JACK,76458-1111,TX,33.22593893,-98.17023772,41
+East Texas Medical Center Jacksonville,501 South Ragsdale Street,Jacksonville,CHEROKEE,75766-2413,TX,31.95941481,-95.26958647,74
+Mother Frances Hospital Jacksonville,2026 South Jackson,Jacksonville,CHEROKEE,75766-5822,TX,31.93897605,-95.25059262,25
+CHRISTUS Jasper Memorial Hospital,1275 Marvin Hancock Drive,Jasper,JASPER,75951-4995,TX,30.90966759,-94.00823272,59
+South Texas Regional Medical Center,1905 Highway 97 East,Jourdanton,ATASCOSA,78026,TX,28.918592,-98.54152,67
+Kimble Hospital,349 Reid Road,Junction,KIMBLE,76849-3049,TX,30.49870648,-99.77832409,15
+Memorial Hermann Katy Hospital,23900 Katy Freeway,Katy,HARRIS,77494-1323,TX,29.753968,-95.810176,142
+CHRISTUS St. Catherine Hospital,701 South Fry,Katy,HARRIS,77450-2237,TX,29.768276,-95.743065,102
+Texas Health Presbyterian Hospital Kaufman,P. O. Box  1108,Kaufman,KAUFMAN,75142-5401,TX,32.584662,-96.302241,91
+Otto Kaiser Memorial Hospital,3349 South Highway 181,Kenedy,KARNES,78119-5240,TX,28.813002,-97.849725,25
+Winkler County Memorial Hospital,821 Jeffee Drive,Kermit,WINKLER,79745-4696,TX,31.84924448,-103.089789,19
+Peterson Regional Medical Center,551 Hill Country Dirve,Kerrville,KERR,78028,TX,30.038845,-99.151308,124
+Allegiance Specialty Hospital of Kilgore,1612 South Henderson Boulevard,Kilgore,GREGG,75662-3594,TX,32.37409309,-94.86704481,60
+Metroplex Hospital,2201 South Clear Creek Road,Killeen,BELL,76549-4110,TX,31.11247304,-97.80082907,232
+CHRISTUS Spohn Hospital Kleberg,P. O. Box 1197,Kingsville,KLEBERG,78364-1197,TX,27.524434,-97.868903,96
+Memorial Hermann Specialty Hospital Kingwood,300 Kingwood Medical Drive,Kingwood,HARRIS,77339-6400,TX,30.0528,-95.22072,10
+Kingwood Medical Center,22999 U.S. Highway 59 N,Kingwood,MONTGOMERY,77339,TX,30.0528,-95.22072,278
+Knox County Hospital,P. O. Box 608,Knox City,KNOX,79529-0608,TX,33.41528,-99.812074,28
+Seton Medical Center Hays,6001 Kyle Parkway,Kyle,HAYS,78640,TX,30.0066,-97.80714,112
+St. Mark's Medical Center,One St Mark's Place,La Grange,FAYETTE,78945,TX,29.93480591,-96.87555049,65
+Brazosport Regional Health System,100 Medical Drive,Lake Jackson,BRAZORIA,77566-5674,TX,29.02969669,-95.45242722,169
+Medical Arts Hospital,2200 North Bryan Avenue,Lamesa,DAWSON,79331-2451,TX,32.73451,-101.95585,23
+Rollins Brook Community Hospital,608 North Key Avenue,Lampasas,LAMPASAS,76550-1106,TX,31.07174397,-98.18552144,25
+Crescent Medical Center Lancaster,2600 West Pleasant Run Road,Lancaster,DALLAS,75146,TX,32.579465,-96.747249,84
+Doctors Hospital of Laredo,10700 McPherson Road,Laredo,WEBB,78045-6268,TX,27.60616868,-99.47939587,183
+Laredo Medical Center,P. O. Drawer 2068,Laredo,WEBB,78044-2068,TX,27.460208,-99.488931,326
+Laredo Specialty Hospital,2005 Bustamante Street,Laredo,WEBB,78041,TX,27.53354669,-99.47379194,60
+Covenant Hospital Levelland,1900 College Avenue,Levelland,HOCKLEY,79336-6508,TX,33.55416,-102.384,48
+Medical Center of Lewisville,500 West Main Street,Lewisville,DENTON,75057-3641,TX,33.04438086,-97.00453182,186
+Liberty-Dayton Regional Medical Center,1353 North Travis Street,Liberty,LIBERTY,77575-3595,TX,30.06822937,-94.79797324,25
+Good Shepherd Medical Center - Linden,404 North Kaufman Street,Linden,CASS,75563-5240,TX,33.01368983,-94.36446897,25
+Lamb Healthcare Center,1500 South Sunset Avenue,Littlefield,LAMB,79339-4899,TX,33.91128003,-102.3453699,75
+Memorial Medical Center - Livingston,P. O. Box 1257,Livingston,POLK,77351-1257,TX,30.57717,-94.68621,66
+Scott & White Hospital - Llano,200 West Ollie Street,Llano,LLANO,78643-2628,TX,30.74325288,-98.67708212,30
+W.J. Mangold Memorial Hospital,P. O. Box 37,Lockney,FLOYD,79241-0037,TX,34.119383,-101.443723,25
+Good Shepherd Medical Center,700 East Marshall Avenue,Longview,GREGG,75601-5572,TX,32.50080473,-94.73052757,425
+Longview Regional Medical Center,P. O. Box 14000,Longview,GREGG,75607-4000,TX,32.578408,-94.779284,230
+Select Specialty Hospital - Longview Inc.,700 East Marshall Avenue,Longview,GREGG,75601-5580,TX,32.50080473,-94.73052757,32
+Covenant Medical Center,P. O. Box 1201,Lubbock,LUBBOCK,79408-1201,TX,33.580757,-101.977652,857
+Grace Medical Center,2412 50th Street,Lubbock,LUBBOCK,79412-2494,TX,33.54919743,-101.8697202,123
+University Medical Center,602 Indiana Avenue,Lubbock,LUBBOCK,79415-3364,TX,33.60709027,-101.8875036,503
+Covenant Children's Hospital,P. O. Box 1201,Lubbock,LUBBOCK,79408-1201,TX,33.580757,-101.977652,73
+Llano Specialty Hospital,1409 9th Street,Lubbock,LUBBOCK,79401-2601,TX,33.69091156,-101.9865804,30
+Lubbock Heart Hospital L.P.,4810 North Loop 289,Lubbock,LUBBOCK,79416-3025,TX,33.60312648,-101.9158657,74
+Covenant Specialty Hospital,PO Box 93720,Lubbock,LUBBOCK,79410,TX,33.568027,-101.89465,56
+Trustpoint Hospital,4302 A Princeton Street,Lubbock,LUBBOCK,79415,TX,33.605722,-101.873513,71
+Texas Specialty Hospital at Lubbock,4302 B Princeton Street,Lubbock,LUBBOCK,79415-1307,TX,33.605722,-101.873513,37
+Woodland Heights Medical Center,505 S. John Redditt Dr.,Lufkin,ANGELINA,75904-3131,TX,31.33565437,-94.7613913,149
+Memorial Medical Center of East Texas,P. O. Box 1447,Lufkin,ANGELINA,75902-1447,TX,31.322803,-94.801068,271
+Memorial Specialty Hospital,1201 West Frank Avenue 5th Floor,Lufkin,ANGELINA,75904-3357,TX,31.33680858,-94.7437813,26
+Seton Edgar B Davis,130 Hays Street,Luling,CALDWELL,78648,TX,29.67316089,-97.65547262,25
+Warm Springs Specialty Hospital of Luling,200 Memorial Drive,Luling,CALDWELL,78648-3213,TX,29.67415769,-97.65497629,34
+Altus Lumberton LP,137 North LHS Drive,Lumberton,HARDIN,77657-8620,TX,30.25647305,-94.21717987,4
+Madison St. Joseph Health Center,P. O. Box 698,Madisonville,MADISON,77864-0698,TX,30.97554,-95.9007,25
+Kindred Hospital - Mansfield,1802 Highway 157 North,Mansfield,TARRANT,76063-3976,TX,32.59884135,-97.14622214,55
+Methodist Mansfield Medical Center,P.O. BOX 719,Mansfield,TARRANT,76063,TX,32.580527,-97.138872,168
+Falls Community Hospital and Clinic,P. O. Box 60,Marlin,FALLS,76661-0060,TX,31.310786,-96.891028,36
+Good Shepherd Medical Center - Marshall,P. O. Box 1599,Marshall,HARRISON,75671-1599,TX,32.545597,-94.369373,149
+Rio Grande Regional Hospital,101 East Ridge Road,McAllen,HIDALGO,78503-1299,TX,26.16935011,-98.10505403,320
+LifeCare Hospitals of South Texas,5101 North Jackson Road,McAllen,HIDALGO,78504,TX,26.24444043,-98.19648969,94
+Solara Hospital McAllen LP,301 West Expressway 83 8th Floor,McAllen,HIDALGO,78503,TX,26.177511,-98.241408,78
+McCamey Hospital,P. O. Box 1200,McCamey,UPTON,79752-1200,TX,31.131143,-102.220417,14
+Columbia Medical Center of McKinney Subsidiary L.P.,4500 Medical Center Drive,McKinney,COLLIN,75069-1652,TX,33.15829939,-96.63556246,260
+Victory Medical Center Craig Ranch,6045 Alma Road Suite 100,McKinney,COLLIN,75070,TX,33.16912,-96.691924,24
+Methodist McKinney Hospital,8000 West Eldorado Parkway,McKinney,COLLIN,75070-5940,TX,33.16912,-96.691924,21
+Baylor Medical Center at McKinney,5252 West University Drive,McKinney,COLLIN,75071,TX,33.167006,-96.597465,95
+Dallas Regional Medical Center,1011 North Galloway Avenue,Mesquite,DALLAS,75149-2433,TX,32.77752049,-96.59980176,202
+Mesquite Specialty Hospital,1024 North Galloway Avenue,Mesquite,DALLAS,75149,TX,32.77766343,-96.59965541,40
+Parkview Regional Hospital,P. O. Box 1420,Mexia,LIMESTONE,76667-1420,TX,31.680599,-96.478818,58
+Midland Memorial Hospital,400 Rosalind Redfern Grover Parkway,Midland,MIDLAND,79701-6499,TX,31.989057,-102.0819,468
+Continuecare Hospital of Midland,4214 Andrews Highway  Suite 320,Midland,MIDLAND,79703,TX,32.00440035,-102.1344456,29
+Palo Pinto General Hospital,400 Southwest 25th Avenue,Mineral Wells,PALO PINTO,76067-8285,TX,32.80733072,-98.08799415,99
+Mission Regional Medical Center,900 South Bryan Road,Mission,HIDALGO,78572-6613,TX,26.21352754,-98.30933981,297
+Ward Memorial Hospital,406 South Gary Street,Monahans,WARD,79756-4798,TX,31.58163,-102.896507,25
+Cochran Memorial Hospital,201 East Grant Avenue,Morton,COCHRAN,79346-3444,TX,33.71936641,-102.7569772,18
+Titus Regional Medical Center,2001 North Jefferson Avenue,Mount Pleasant,TITUS,75455-2398,TX,33.17525065,-94.97048624,174
+East Texas Medical Center Mount Vernon,P. O. Box 477,Mount Vernon,FRANKLIN,75457-0477,TX,33.180969,-95.227426,49
+Muenster Memorial Hospital,P. O. Box 370,Muenster,COOKE,76252-0370,TX,33.652773,-97.377391,18
+Muleshoe Area Medical Center,708 South First Street,Muleshoe,BAILEY,79347-3627,TX,34.22211306,-102.7276395,25
+Nacogdoches Memorial Hospital,1204 North Mound Street,Nacogdoches,NACOGDOCHES,75961-4027,TX,31.61337834,-94.64936428,216
+Nacogdoches Medical Center,4920 N. E. Stallings Drive,Nacogdoches,NACOGDOCHES,75965-1254,TX,31.65213185,-94.65483201,153
+CHRISTUS St. John Hospital,18300 St. John Drive,Nassau Bay,HARRIS,77058-6302,TX,29.55006344,-95.0854129,178
+Grimes St. Joseph Health Center,210 South Judson St.,Navasota,GRIMES,77868-3704,TX,30.39471843,-96.07865435,25
+CHRISTUS Santa Rosa Hospital -  New Braunfels,600 North Union Avenue,New Braunfels,COMAL,78130-4191,TX,29.71556791,-98.12416828,132
+Warm Springs Specialty Hospital at New Braunfels,1445 Hanz Drive,New Braunfels,COMAL,78130,TX,29.72747273,-98.10145523,40
+Nocona General Hospital,100 Park Road,Nocona,MONTAGUE,76255-3616,TX,33.796166,-97.713828,38
+North Hills Hospital,4401 Booth Calloway Road,North Richland Hills,TARRANT,76180-7399,TX,32.82933223,-97.21230043,176
+Medical Center Hospital,P. O. Box 7239,Odessa,ECTOR,79760-7239,TX,31.827713,-102.434573,402
+Odessa Regional Medical Center,P.O. Box 4859,Odessa,ECTOR,79760-4859,TX,31.827713,-102.434573,230
+Basin Healthcare Center,904 East 4th Street,Odessa,ECTOR,79761,TX,31.85178033,-102.3603801,14
+Hamilton Hospital,P. O. Box 158,Olney,YOUNG,76374-0158,TX,33.368531,-98.762652,25
+Baptist Orange Hospital,608 Strickland Drive,Orange,ORANGE,77630-4717,TX,30.10007438,-93.7664346,112
+Palacios Community Medical Center,311 Green Avenue,Palacios,MATAGORDA,77465-3214,TX,28.71735381,-96.21283657,17
+Palestine Regional Medical Center,2900 South Loop 256,Palestine,ANDERSON,75801-6900,TX,31.73217021,-95.62674037,156
+Pampa Regional Medical Center,One Medical Plaza,Pampa,GRAY,79065,TX,35.541949,-100.962049,115
+Paris Regional Medical Center - North Campus,PO Box 9070,Paris,LAMAR,75461-9070,TX,33.661821,-95.552451,368
+Dubuis Hospital of Paris,820 Clarksville Street,Paris,LAMAR,75460-6027,TX,33.66011872,-95.5464117,25
+Bayshore Medical Center,4000 Spencer Highway,Pasadena,HARRIS,77504-1294,TX,29.66574803,-95.18131196,481
+Kindred Hospital Bay Area,4801 East Sam Houston Parkway South,Pasadena,HARRIS,77505-3955,TX,29.63750208,-95.16072606,74
+St. Luke's Patients Medical Center,4600 East Sam Houston Parkway South,Pasadena,HARRIS,77505-3948,TX,29.64125042,-95.16176404,61
+Pristine Hospital of Pasadena,1004 Seymour Street,Pasadena,HARRIS,77506,TX,29.70260079,-95.20020497,32
+Frio Regional Hospital,200 S. IH-35,Pearsall,FRIO,78061-3998,TX,28.891692,-99.095347,22
+Reeves County Hospital,2323 Texas Street,Pecos,REEVES,79772-7338,TX,31.40225886,-103.5127618,25
+Ochiltree General Hospital,3101 Garrett Drive,Perryton,OCHILTREE,79070-5323,TX,36.37064963,-100.79971,25
+East Texas Medical Center Pittsburg,2701 U.S. Hwy. 271 North,Pittsburg,CAMP,75686-4289,TX,32.997204,-94.967696,25
+Covenant Hospital Plainview,2601 Dimmitt Road,Plainview,HALE,79072-1833,TX,34.20665206,-101.7309622,68
+Medical Center of Plano,3901 West 15th Street,Plano,COLLIN,75075-7738,TX,33.01940112,-96.766078,429
+Texas Health Presbyterian Hospital Plano,6200 West Parker Road,Plano,COLLIN,75093-7938,TX,33.04504583,-96.83617857,338
+Plano Specialty Hospital,1621 Coit Road,Plano,COLLIN,75075,TX,33.02181471,-96.76879799,43
+LifeCare Hospitals of Plano,6800 Preston Road,Plano,COLLIN,75024-2505,TX,33.076641,-96.804029,66
+Baylor Regional Medical Center at Plano,4700 Alliance Boulevard,Plano,COLLIN,75093-5323,TX,33.01426786,-96.79149281,160
+The Heart Hospital Baylor Plano,1100 Allied Drive,Plano,COLLIN,75093,TX,33.032072,-96.802811,116
+Star Medical Center,106 North Denton Tap Road Suite 210-347,Plano,COLLIN,75019,TX,32.9694655,-96.99366047,7
+Victory Medical Center Plano LP,2301 Marsh Lane Suite 100,Plano,DENTON,75093-8497,TX,33.03103125,-96.85248082,20
+The Medical Center of Southeast Texas,2555 Jimmy Johnson Boulevard,Port Arthur,JEFFERSON,77640-2007,TX,29.93505209,-93.98639122,224
+Memorial Medical Center,P. O. Box 25,Port Lavaca,CALHOUN,77979-0025,TX,28.617499,-96.633202,25
+Hardeman County Memorial Hospital,P. O. Box 90,Quanah,HARDEMAN,79252-0090,TX,34.293199,-99.745234,24
+East Texas Medical Center - Quitman,P. O. Box 1000,Quitman,WOOD,75783-1000,TX,32.795818,-95.445299,25
+Rankin County Hospital District,P. O. Box 327,Rankin,UPTON,79778-0327,TX,31.225493,-101.943149,15
+Refugio County Memorial Hospital District,107 Swift Street,Refugio,REFUGIO,78377-2425,TX,28.30653153,-97.27950383,20
+Methodist Richardson Medical Center,401 West Campbell Road,Richardson,DALLAS,75080-3499,TX,32.97528072,-96.72723531,209
+OakBend Medical Center,1705 Jackson Street,Richmond,FORT BEND,77469-3289,TX,29.57652461,-95.7705722,243
+Starr County Memorial Hospital,P. O. Box 78,Rio Grande City,STARR,78582-0078,TX,26.49192,-98.7393,48
+Little River Healthcare,1700 Brazos Street,Rockdale,MILAM,76567-2517,TX,30.65011731,-97.02193207,25
+Texas Health Presbyterian Hospital Rockwall,3150 Horizon Road,Rockwall,ROCKWALL,75032,TX,32.88570113,-96.46443992,50
+Fisher County Hospital District,P. O. Box F,Rotan,FISHER,79546-0485,TX,32.854577,-100.463181,14
+Round Rock Medical Center,2400 Round Rock Avenue,Round Rock,WILLIAMSON,78681-4097,TX,30.51054498,-97.71507234,169
+Scott & White Hospital - Round Rock,300 University Boulevard,Round Rock,WILLIAMSON,78665-1032,TX,30.56356714,-97.68465387,101
+Seton Medical Center Williamson,201 Seton Parkway,Round Rock,WILLIAMSON,78665-8000,TX,30.56938337,-97.65124313,149
+Lake Pointe Medical Center,6800 Scenic Drive,Rowlett,ROCKWALL,75088-4552,TX,32.92117502,-96.50942426,112
+Shannon West Texas Memorial Hospital,P. O. Box 1879,San Angelo,TOM GREEN,76902-1879,TX,31.453553,-100.424771,409
+San Angelo Community Medical Center,3501 Knickerbocker Road,San Angelo,TOM GREEN,76904,TX,31.418391,-100.478565,171
+Baptist Medical Center,111 Dallas Street,San Antonio,BEXAR,78205-1230,TX,29.43298871,-98.49278519,1734
+Nix Health Care System,414 Navarro Street,San Antonio,BEXAR,78205-2527,TX,29.4249781,-98.48960275,336
+University Hospital,4502 Medical Drive,San Antonio,BEXAR,78229-4493,TX,29.50899231,-98.57397329,614
+Texas Center for Infectious Disease,2303 Southeast Military Drive,San Antonio,BEXAR,78223-3597,TX,29.35197587,-98.4581469,42
+CHRISTUS Santa Rosa - Medical Center,2827 Babcock Road,San Antonio,BEXAR,78229,TX,29.51396369,-98.5918592,358
+Methodist Hospital,7700 Floyd Curl Drive,San Antonio,BEXAR,78229-3993,TX,29.5090072,-98.57384056,1894
+Southwest General Hospital,7400 Barlite Boulevard,San Antonio,BEXAR,78224-1399,TX,29.35665024,-98.54612872,327
+Children's Hospital of San Antonio,333 North Santa Rosa Street,San Antonio,BEXAR,78207-3198,TX,29.42813551,-98.49784248,668
+Kindred Hospital - San Antonio,3636 Medical Drive,San Antonio,BEXAR,78229-2183,TX,29.52216343,-98.55687394,59
+Acuity Hospital of South Texas,718 Lexington Avenue,San Antonio,BEXAR,78212-4768,TX,29.43726873,-98.49306859,30
+LifeCare Hospitals of San Antonio,8902 Floyd Curl Drive,San Antonio,BEXAR,78240-1681,TX,29.52573624,-98.59071528,62
+Select Specialty Hospital - San Antonio,111 Dallas Street 4th Floor,San Antonio,BEXAR,78205,TX,29.43298871,-98.49278519,44
+Warm Springs Specialty Hospital of San Antonio,7400 Barlite Boulevard  2nd  Floor,San Antonio,BEXAR,78224-1308,TX,29.35665024,-98.54612872,26
+Victory Medical Center Southcross,4243 East Southcross Boulevard,San Antonio,BEXAR,78222,TX,29.37490126,-98.41192032,9
+Methodist Stone Oak Hospital,1139 East Sonterra Boulevard,San Antonio,BEXAR,78258,TX,29.61529587,-98.47226237,140
+Baptist Emergency Hospital,16088 San Pedro,San Antonio,BEXAR,78232,TX,29.58904085,-98.47426374,42
+Victory Medical Center Landmark,5330 North Loop 1604 West,San Antonio,BEXAR,78249-1371,TX,29.567119,-98.605723,25
+Memorial Medical Center - San Augustine,P. O. Box 658,San Augustine,SAN AUGUSTINE,75972-0658,TX,31.54896,-94.09566,18
+Central Texas Medical Center,1301 Wonder World Drive,San Marcos,HAYS,78666-7544,TX,29.8517412,-97.94689067,178
+Guadalupe Regional Medical Center,1215 East Court Street,Seguin,GUADALUPE,78155-5189,TX,29.54493263,-98.00360756,125
+Memorial Hospital,209 Northwest 8th Street,Seminole,GAINES,79360-3447,TX,32.72296305,-102.6538474,25
+Seymour Hospital,200 Stadium Drive,Seymour,BAYLOR,76380-2344,TX,33.59224885,-99.24735479,49
+Shamrock General Hospital,1000 South Main Street,Shamrock,WHEELER,79079-2896,TX,35.19756533,-100.2490559,25
+Nexus Specialty Hospital-The Woodlands Ltd-Shenandoah Campus,123 Vision Park Drive,Shenandoah,MONTGOMERY,77384,TX,30.18872379,-95.45997921,75
+Texas Health Presbyterian Hospital - WNJ,500 North Highland Avenue,Sherman,GRAYSON,75092-7354,TX,33.63716555,-96.62386983,241
+Carrus Specialty Hospital,1810 U.S. Highway 82 West,Sherman,GRAYSON,75092-7069,TX,33.67064232,-96.64345583,16
+Seton Smithville Regional Hospital,800 East Highway 71,Smithville,BASTROP,78957-9556,TX,30.013892,-97.156138,36
+Cogdell Memorial Hospital,1700 Cogdell Boulevard,Snyder,SCURRY,79549-6198,TX,32.68845911,-100.917626,49
+Lillian M. Hudspeth Memorial Hospital,P. O. Box 455,Sonora,SUTTON,76950-0455,TX,30.568862,-100.642173,12
+Texas Health Harris Methodist Hospital Southlake,1545 Southlake Boulevard,Southlake,TARRANT,76092,TX,32.953968,-97.150453,16
+Forest Park Medical Center Southlake,421 East Highway 114,Southlake,TARRANT,76092,TX,32.953968,-97.150453,54
+Hansford County Hospital,707 South Roland Street,Spearman,HANSFORD,79081-3441,TX,36.18995444,-101.2000928,14
+Spring Central Hospital,20635 Kuykendahl Road,Spring,HARRIS,77379,TX,30.027227,-95.529294,12
+Atrium Medical Center,11929  West Airport Boulevard,Stafford,FORT BEND,77477,TX,29.64616042,-95.58808453,68
+Stamford Memorial Hospital,P. O. Box 911,Stamford,JONES,79553-0911,TX,32.94822,-99.76986,22
+Martin County Hospital District,P. O. Box 640,Stanton,MARTIN,79782-0640,TX,32.131726,-101.792877,18
+Texas Health Harris Methodist Hospital Stephenville,P. O. Box 1399,Stephenville,ERATH,76401-1399,TX,32.220415,-98.216583,98
+Memorial Hermann Sugar Land,17500 West Grand Parkway South,Sugar Land,FORT BEND,77479-2562,TX,29.565407,-95.63528,81
+Houston Methodist Sugar Land Hospital,16655 Southwest Freeway,Sugar Land,FORT BEND,77479-2343,TX,29.58949217,-95.63134622,243
+Kindred Hospital Sugar Land,1550 First Colony Boulevard,Sugar Land,FORT BEND,77479-4000,TX,29.60032705,-95.63786347,171
+St. Luke's Sugar Land Hospital,1317 Lake Point Parkway,Sugar Land,FORT BEND,77478-3997,TX,29.627645,-95.635597,100
+Emerus Hospital,16000 Southwest Freeway,Sugar Land,FORT BEND,77479,TX,29.59349549,-95.6286009,7
+Hopkins County Memorial Hospital,P. O. Box 275,Sulphur Springs,HOPKINS,75483-0275,TX,33.142219,-95.597859,96
+Texas Regional Medical Center at Sunnyvale,231 South Collins Road,Sunnyvale,DALLAS,75182,TX,32.80236134,-96.56105042,70
+Sweeny Community Hospital,305 North McKinney Street,Sweeny,BRAZORIA,77480-2895,TX,29.04782367,-95.69099013,20
+Rolling Plains Memorial Hospital,P. O. Box 690,Sweetwater,NOLAN,79556-0690,TX,32.46594,-100.38624,85
+Lynn County Hospital District,P. O. Box 1310,Tahoka,LYNN,79373-1310,TX,33.169336,-101.802852,24
+Scott & White Hospital - Taylor,305 Mallard Lane,Taylor,WILLIAMSON,76574-1208,TX,30.59136725,-97.41462051,25
+Scott & White Memorial Hospital,2401 South 31st Street,Temple,BELL,76508-0002,TX,31.08413987,-97.36051909,732
+Scott & White Continuing Care Hospital,546 Kegley Road,Temple,BELL,76502-4069,TX,31.10810847,-97.40234767,50
+Renaissance Hospital Terrell,1551 Highway 34 South,Terrell,KAUFMAN,75160-4833,TX,32.71178475,-96.27998088,102
+Wadley Regional Medical Center,1000 Pine Street,Texarkana,BOWIE,75501-5170,TX,33.42797083,-94.04672841,370
+CHRISTUS St. Michael Health System,P. O. Box 2911,Texarkana,BOWIE,75504-2911,TX,33.352727,-94.218718,376
+Dubuis Hospital of Texarkana,2600 St. Michael Drive 2nd Floor,Texarkana,BOWIE,75503-2374,TX,33.46237455,-94.07517269,49
+Memorial Hermann The Woodlands Hospital,9250 Pinecroft Drive,The Woodlands,MONTGOMERY,77380-3225,TX,30.17407126,-95.45396444,258
+St. Luke's the Woodlands Hospital,17200 St Lukes Way,The Woodlands,MONTGOMERY,77384-8007,TX,30.230149,-95.490453,184
+St. Luke's Lakeside Hospital,17400 St Luke's Way,The Woodlands,MONTGOMERY,77384,TX,30.230149,-95.490453,30
+Apollo Hospital,9201 Pinecroft,The Woodlands,MONTGOMERY,77380,TX,30.17483077,-95.45743165,5
+Throckmorton County Memorial Hospital,P. O. Box 729,Throckmorton,THROCKMORTON,76483-0729,TX,33.186968,-99.27672,14
+Tomball Regional Hospital,605 Holderrieth Boulevard,Tomball,HARRIS,77375-6490,TX,30.08717606,-95.62098473,358
+East Texas Medical Center Trinity,P. O. Box 3169,Trinity,TRINITY,75862-3169,TX,30.9459,-95.35542,45
+Baylor Medical Center at Trophy Club,2850 South Highway 114 E,Trophy Club,DENTON,76262,TX,33.007049,-97.194352,20
+Swisher Memorial Hospital,P. O. Box 808,Tulia,SWISHER,79088-0808,TX,34.65164,-101.49838,20
+University of Texas Health Center - Tyler,11937 Highway 271 North,Tyler,SMITH,75708-3154,TX,32.398669,-95.243419,116
+East Texas Medical Center,P.O. Drawer 6400,Tyler,SMITH,75711-6400,TX,32.393615,-95.409413,509
+Mother Frances Hospital,800 East Dawson,Tyler,SMITH,75701-2093,TX,32.34263875,-95.29057671,474
+East Texas Medical Center Specialty Hospital,P.O. Box 7018,Tyler,SMITH,75711-7018,TX,32.393615,-95.409413,36
+Texas Spine and Joint Hospital,1814 Roseland Boulevard,Tyler,SMITH,75701-4262,TX,32.32972334,-95.29936741,18
+Tyler Continue Care Hospital,800 East Dawson 4th Floor,Tyler,SMITH,75701-2036,TX,32.326456,-95.294488,51
+Uvalde Memorial Hospital,1025 Garner Field Road,Uvalde,UVALDE,78801-4895,TX,29.21477602,-99.76965589,66
+Culberson Hospital,P. O. Box 609,Van Horn,CULBERSON,79855-0609,TX,31.06,-104.21,14
+Wilbarger General Hospital,920 Hillcrest Drive,Vernon,WILBARGER,76384-3196,TX,34.159486,-99.31336228,47
+Citizens Medical Center,2701 Hospital Drive,Victoria,VICTORIA,77901-5749,TX,28.81268867,-96.97780246,344
+DeTar Hospital Navarro,P. O. Box 2089,Victoria,VICTORIA,77902-2089,TX,28.783592,-96.996184,304
+Post Acute Medical Specialty Hospital of Victoria,506 East San Antonio Street 3rd FL,Victoria,VICTORIA,77901-6060,TX,28.80808302,-96.99899735,23
+Warm Springs Specialty Hospital of Victoria,102 Medical Drive,Victoria,VICTORIA,77904-3101,TX,28.85503337,-97.02189743,26
+Hillcrest Baptist Medical Center,3000 Herring Avenue,Waco,MCLENNAN,76708-3239,TX,31.55860483,-97.17474527,576
+Providence Health Center,P. O. Box 2589,Waco,MCLENNAN,76702-2589,TX,31.544973,-97.142627,301
+Baylor Medical Center at Waxahachie,1405 West Jefferson Street,Waxahachie,ELLIS,75165-2275,TX,32.39602628,-96.86387941,69
+Weatherford Regional Medical Center,713 East Anderson Street,Weatherford,PARKER,76086-5797,TX,32.74755439,-97.7860005,99
+Clear Lake Regional Medical Center,500 Medical Center Boulevard,Webster,HARRIS,77598-4286,TX,29.54121876,-95.12768794,762
+Cornerstone Hospital of Houston - Clear Lake,709 Medical Center Boulevard,Webster,HARRIS,77598-4005,TX,29.53721726,-95.12934112,148
+Houston Physicians' Hospital,333 North Texas Avenue,Webster,HARRIS,77598,TX,29.53410436,-95.12601503,21
+Collingsworth General Hospital,1013 15th Street,Wellington,COLLINGSWORTH,79095-3703,TX,34.84900061,-100.2129201,13
+Knapp Medical Center,P. O. Box 1110,Weslaco,HIDALGO,78599-1110,TX,26.158854,-97.992492,227
+Gulf Coast Medical Center,10141 US 59 RD,Wharton,WHARTON,77488,TX,29.32968,-96.0612,161
+Parkview Hospital,P. O. Box 1030,Wheeler,WHEELER,79096-1030,TX,35.440865,-100.274083,16
+Lake Whitney Medical Center,P. O. Box 458,Whitney,HILL,76692-0458,TX,31.950379,-97.316515,49
+United Regional Health Care System,1600 11th Street,Wichita Falls,WICHITA,76301-4307,TX,33.90300477,-98.50041049,325
+Texas Specialty Hospital at Wichita Falls,1103 Grace Street,Wichita Falls,WICHITA,76301-4414,TX,33.90298092,-98.50023879,31
+Kell West Regional Hospital,5420 Kell Boulevard West,Wichita Falls,WICHITA,76310-1610,TX,33.87300152,-98.58018975,41
+Winnie Community Hospital,538 Broadway,Winnie,CHAMBERS,77665-7600,TX,29.81977646,-94.376767,25
+Mother Frances Hospital - Winnsboro,719 West Coke Road,Winnsboro,WOOD,75494-3007,TX,32.94639174,-95.30947623,25
+North Runnels Hospital,P. O. Box 185,Winters,RUNNELS,79567-0185,TX,31.97616,-99.90246,25
+Tyler County Hospital,1100 West Bluff Street,Woodville,TYLER,75979-4799,TX,30.754889,-94.393444,49
+Yoakum Community Hospital,1200 Carl Ramert Drive,Yoakum,LAVACA,77995,TX,29.30555912,-97.12885592,25
+,,,,,,,,
+,,,,,,,,
+"<!DOCTYPE html PUBLIC ""-//W3C//DTD XHTML 1.0 Transitional//EN"" ""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"">",,,,,,,,
+,,,,,,,,
+"<html xmlns=""http://www.w3.org/1999/xhtml"">",,,,,,,,
+,,,,,,,,
+<body>,,,,,,,,
+,,,,,,,,
+    Your download should begin in 3 seconds. ,,,,,,,,
+    <br />,,,,,,,,
+    <br />,,,,,,,,
+    ,,,,,,,,
+"    <a id=""linkDownload"">If the download does not begin", click here</a>,,,,,,,
+    ,,,,,,,,
+    <br />,,,,,,,,
+    <br />,,,,,,,,
+    <br />,,,,,,,,
+"    <a href=""javascript:window.close();"">Click here to close this window</a>",,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+</body>,,,,,,,,
+</html>,,,,,,,,
+,,,,,,,,
+                        ,,,,,,,,
+                        ,,,,,,,,

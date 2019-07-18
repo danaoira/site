@@ -1,0 +1,56 @@
+Name,Address,City,County,ZipCode,State,Latitude,Longitude,AcuteCareBeds
+Maricopa Integrated Health Systems,934 W Hatcher Rd,Phoenix,Maricopa,85021,AZ,33.571327,-112.08608,0
+University of Arizona Health Network,575 E River Rd,Tucson,Pima,85704,AZ,32.296316,-110.972034,0
+Kaiser Los Angeles Medical Center, 4867 Sunset Blvd,Los Angeles,Los Angeles,90027,CA ,34.098223,118.295439,0
+Kaiser Oakland Medical Center,3600 Broadway,Oakland,Alameda,94611,CA,39.78373,-100.445882,0
+Kaiser South Sacramento Medical Center, 6600 Bruceville Rd,Sacramento,Sacramento,95823,CA,38.471952,-121.42276,0
+University of California Davis Medical Center, 2315 Stockton Blvd,Sacramento,Sacramento,95817,CA,38.554321,-121.457345,0
+University of California Irvine Medical Center,101 The City Dr S,Orange,Orange,92868,CA,33.787228,-117.888413,0
+University of California Los Angeles Medical Center,1399 Roxbury Dr,Los Angeles,Los Angeles,90035,CA,39.78373,-100.445882,0
+University of California San Diego Medical Center,200 West Arbor Dr. ,San Diego,San Diego,92103,CA,32.754871,-117.166515,0
+University of California San Francisco Medical Center,505 Parnassus Ave,San Francisco,San Francisco,94143,CA,37.763513,-122.457805,0
+Children's Hospital Colorado,13123 E 16th Ave,Aurora,Adams,80045,CO,39.742217,-104.836153,0
+Denver Health Medical Center,777 Bannock St,Denver,Denver,80204,CO,39.727514,-104.991565,0
+Emory University Hospital,1364 Clifton Rd, Atlanta,DeKalb,30322,GA,39.78373,-100.445882,0
+Grady Memorial Hospital,80 Jesse Hill Jr Drive SE,Atlanta,Fulton,30303,GA,33.749858,-84.385034,0
+Ann & Robert H. Lurie Children’s Hospital of Chicago,225 E Chicago Ave,Chicago,Cook,60611,IL,41.896739,-87.62431,0
+Northwestern Memorial Hospital,251 E Huron St,Chicago,Cook,60611,IL,41.894401,-87.621241,0
+Rush University Medical Center,1653 W Congress Pkwy,Chicago,Cook,60612,IL,41.875067,-87.668382,0
+University of Chicago Medical Center,5841 S Maryland Ave,Chicago,Cook,60637,IL,41.788193,-87.604418,0
+Johns Hopkins Hospital,1800 Orleans St,Baltimore,Baltimore,21287,MD,39.295135,-76.591253,0
+University of Maryland Medical Center,22 S Greene St,Baltimore,Baltimore,21201,MD,39.287931,-76.625624,0
+National Institutes of Health Clinical Center,10 Center Dr,Bethesda,Montgomery,20814,MD,39.000407,-77.100606,0
+Baystate Medical Center,280 Chestnut St,Springfield,Hampden,1199,MA,39.78373,-100.445882,0
+Boston Children's Hospital,300 Longwood Ave,Boston,Suffolk,2115,MA,39.78373,-100.445882,0
+Massachusetts General Hospital,50 Staniford St # 580,Boston,Suffolk,2114,MA,39.78373,-100.445882,0
+UMass Memorial Medical Center,123 Summer St # 655,Worceste,Worcester,1608,MA,39.78373,-100.445882,0
+Allina Health’s Unity Hospital,550 Osborne Rd NE,Fridley,Anoka,55432,MN,45.10375,-93.272186,0
+Children’s Hospitals and Clinics of Minnesota - Saint Paul campus,345 N Smith Ave,St. Paul,Ramsey,55102,MN,44.943439,-93.106151,0
+Mayo Clinic Hospital - Rochester,1216 2nd St SW,Rochester,Olmsted,55902,MN,44.021548,-92.481736,0
+University of Minnesota Medical Center,2450 Riverside Ave,Minneapolis,Hennepin,55454,MN,44.965908,-93.236885,0
+Nebraska Medicine - Nebraska Medical Center,4350 Dewey Ave,Omaha,Douglas,68105,NE,41.255987,-95.952657,0
+North Shore System LIJ/Glen Cove Hospital,10 Medical Plaza # 106,Glen Cove,Nassau,11542,NY,39.78373,-100.445882,0
+Montefiore Health System,12 N 7th Ave, New York City,Westchester,10550,NY,39.78373,-100.445882,0
+New York-Presbyterian/Allen Hospital,5141 Broadway, New York City,New York,10034,NY,40.873272,-73.91297,0
+NYC Health and Hospitals Corporation/HHC Bellevue Hospital Center,346 Broadway #5, New York City,New York,10013,NY,39.78373,-100.445882,0
+Robert Wood Johnson University Hospital,1 Robert Wood Johnson Pl,New Brunswick,Middlesex,8901,NY,39.78373,-100.445882,0
+The Mount Sinai Hospital,1468 Madison Avenue, New York City,New York,10017,NY,40.755354,-73.977417,0
+MetroHealth Medical Center,2500 Metrohealth Dr, Cleveland,Cuyahoga,44109,OH,41.462327,-81.699076,0
+Children's Hospital of Philadelphia, 3401 Civic Center Blvd,Philadelphia,Philadelphia,19104,PA,39.948103,-75.193286,0
+Hospital of the University of Pennsylvania,3400 Spruce St,Philadelphia,Philadelphia,19104,PA,39.78373,-100.445882,0
+Lehigh Valley Health Network - Muhlenberg Campus,2545 Schoenersville Rd,Muhlenberg,Lehigh,18017,PA,39.78373,-100.445882,0
+Penn State Milton S. Hershey Medical Center,500 University Dr,Hershey,Dauphin,17033,PA,40.263655,-76.67257,0
+University of Texas Medical Branch at Galveston,301 University Boulevard,Galveston,Galveston,77555,TX,29.310307,-94.774521,380
+Texas Children's Hospital,6621 Fannin St,Houston,Harris,77030,TX,29.709777,-95.400712,648
+University of Virginia Medical Center,1215 Lee St, Charlottesville,,22903,VA,38.031968,-78.498589,0
+Virginia Commonwealth University Medical Center,401 N 11th St,Richmond,Richmond,23298,VA,37.540634,-77.431112,0
+Children’s Hospital of Wisconsin, 620 S 76th St #120,Milwaukee,Milwaukee,53214, WI,39.78373,-100.445882,0
+Froedtert & the Medical College of Wisconsin – Froedtert Hospital,1155 N Mayfair Rd,Wauwatosa,Milwaukee,53226,WI,43.04497,-88.047484,0
+UW Health – University of Wisconsin Hospital,1675 Highland Ave,Madison,Dane,53792,WI,39.78373,-100.445882,0
+MedStar Washington Hospital Center,110 Irving St NW,Washington,District of Columbia,20010,DC,38.929652,-77.015648,0
+Children's National Medical Center;,111 Michigan Ave NW,Washington,District of Columbia,20010,DC,38.9273,-77.0147,0
+George Washington University Hospital,900 23rd St NW,Washington,District of Columbia,20037,DC,38.901191,-77.05038,0
+Harborview Medical Center,325 9th Ave,Seattle,King,98104,WA,47.603968,-122.323953,0
+Seattle Children’s Hospital,1900 9th Ave,Seattle,King,98101,WA,47.615978,-122.334478,0
+Providence Sacred Heart Medical Center, 101 W 8th Ave,Spokane,Spokane,99204,WA,47.648409,-117.460421,0
+West Virginia University Hospital,1 Medical Center Dr,Morgantown,Monongalia,26506,WV,39.651385,-79.959392,0
