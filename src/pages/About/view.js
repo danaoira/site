@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import ReactDOM from 'react-dom'
 import styled from 'styled-components'
-import { theme, links } from '../../../utils'
+import { theme, links } from '../../utils'
 
 const Grid2Col = styled.div`
   font-family: ${theme.type.accent.fontFamily};
@@ -93,7 +93,7 @@ const Avatar = styled.img`
 
 const AvatarSection = () => (
   <Section>
-    <Avatar src={require('../../../images/danaoira.jpg')} />
+    <Avatar src={require('../../images/danaoira.jpg')} />
   </Section>
 )
 

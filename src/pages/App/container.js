@@ -1,6 +1,6 @@
 import { connect } from 'react-redux'
-import { uiSelectPage } from '../store/ui/actions'
-import { getSelectedPage } from '../store/ui/selectors'
+import { uiSelectPage } from '../../store/ui/actions'
+import { getSelectedPage } from '../../store/ui/selectors'
 
 const mapStateToProps = (state, props) => {
   const page = getSelectedPage(state)

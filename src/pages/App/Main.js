@@ -1,8 +1,9 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
-import { Brand } from './components/pages/Brand'
-import { Portfolio } from './components/pages/Portfolio'
-import { About } from './components/pages/About'
+import { Brand } from '../Brand'
+import { Portfolio } from '../Portfolio'
+import { About } from '../About'
+import container from './container'
 
 const Main = styled.div`
   overflow-y: scroll;
@@ -26,4 +27,4 @@ class AppMain extends Component {
   }
 }
 
-export default AppMain
+export default container(AppMain)

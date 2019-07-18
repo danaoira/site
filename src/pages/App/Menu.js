@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
-import { links } from './utils'
-import { Menu, Title, Subtitle, List, Link } from './style'
+import { links } from '../../utils'
+import { Menu, Title, Subtitle, List, Link } from '../../utils/style'
+import container from './container'
 
 const ListItem = (props) => (
   <li><Link {...props}>{props.children}</Link></li>
@@ -26,4 +27,4 @@ class AppMenu extends Component {
   }
 }
 
-export default AppMenu
+export default container(AppMenu)
