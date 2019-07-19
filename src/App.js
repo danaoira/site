@@ -43,7 +43,12 @@ const Main = styled.div`
 `
 
 const ListItem = (props) => (
-  <li><Link {...props}>{props.children}</Link></li>
+  <React.Fragment>
+    {props.href
+      ? <li><Link {...props}>{props.children}</Link></li>
+      : <li>{props.children}</li>
+    }
+  </React.Fragment>
 )
 
 class App extends Component {
@@ -70,6 +75,8 @@ class App extends Component {
           <Main>
             <Route path="/" exact component={Portfolio} />
             <Route path="/about/" component={About} />
+            <Route path="/portfolio" component={Portfolio} />
+            {/* <Route path="/unt-ebola" component={UntEbola} /> */}
           </Main>
         </Router>
       </Provider>
