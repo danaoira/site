@@ -2,6 +2,10 @@ const inProgress = [
   {
     title: 'World Happiness Report',
     subtitle: 'landmark survey of global happiness'
+  },
+  {
+    title: 'BART Ridership',
+    subtitle: 'daily station-to-station ridership map'
   }
 ]
 
