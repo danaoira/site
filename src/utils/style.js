@@ -84,7 +84,6 @@ const Link = styled.a`
       border-bottom: solid 2px ${theme.color.pink};
     }
   }
-
 `
 
 const Paragraph = styled.div`

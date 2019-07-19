@@ -1,14 +1,27 @@
 import React, { Component } from 'react'
+import styled from 'styled-components'
 import { Provider } from 'react-redux'
-import { createStore, applyMiddleware, compose } from 'redux'
+import {
+  createStore,
+  applyMiddleware,
+  compose
+} from 'redux'
 import { createEpicMiddleware } from 'redux-observable'
-import { BrowserRouter as Router, Route, Link as RouterLink } from 'react-router-dom'
+import {
+  BrowserRouter as Router,
+  Route,
+  Link as RouterLink
+} from 'react-router-dom'
 import combinedReducer from './store/combinedReducer'
 import combinedEpics from './store/combinedEpics'
-import { uiSelectPage } from './store/ui/actions'
-import { Menu, Title, Subtitle, List, Link } from './utils/style'
-import links from './utils/links'
-import styled from 'styled-components'
+import {
+  Menu,
+  Title,
+  Subtitle,
+  List,
+  Link
+} from './utils/style'
+import { links } from './utils'
 import { About, Portfolio } from './pages'
 
 const epicMiddleware = createEpicMiddleware()
@@ -34,9 +47,6 @@ const ListItem = (props) => (
 )
 
 class App extends Component {
-  componentWillMount() {
-    store.dispatch(uiSelectPage('portfolio'))
-  }
 
   render() {
     return (
@@ -46,8 +56,12 @@ class App extends Component {
             <Title>Dana Oira</Title>
             <Subtitle>Data Visualization<br />Software Engineer</Subtitle>
             <List>
-              <ListItem><RouterLink to="/portfolio">Portfolio</RouterLink></ListItem>
-              <ListItem><RouterLink to="/about">About</RouterLink></ListItem>
+              <ListItem>
+                <RouterLink to="/portfolio">Portfolio</RouterLink>
+              </ListItem>
+              <ListItem>
+                <RouterLink to="/about">About</RouterLink>
+              </ListItem>
               <ListItem href={links.linkedin}><i className="fab fa-linkedin"></i></ListItem>
               <ListItem href={links.github}><i className="fab fa-github"></i></ListItem>
               <ListItem href={'mailto:danaoira@live.com'}><i className="far fa-envelope"></i></ListItem>
